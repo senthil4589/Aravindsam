@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E8E8E8"
+    android:orientation="vertical" >
+    
+   <!--  <RelativeLayout 
+        android:id="@+id/welcome_post_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/feed_card_shadow"
+        >
+        
+        <com.group.nearme.util.MyTextView
+            android:id="@+id/welcome"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:text="Welcome"
+            android:gravity="center_horizontal"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+        
+        
+          <com.parse.ParseImageView
+                android:id="@+id/group_image"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:adjustViewBounds="true"
+                android:layout_below="@+id/welcome"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:contentDescription="@string/image_des"
+                android:src="@drawable/group_image"
+                android:scaleType="centerCrop" />
+          
+          <com.group.nearme.util.MyTextView
+            android:id="@+id/group_des"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="@string/near_by_system_post"
+            android:layout_below="@+id/group_image"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+    </RelativeLayout>
+ -->
+    <com.handmark.pulltorefresh.library.PullToRefreshListView
+        android:id="@+id/feed_list_view"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/layout"
+        android:background="#E8E8E8"
+        android:divider="#00000000"
+        android:dividerHeight="0dp"
+        android:paddingBottom="10dp" />
+
+  
+    <RelativeLayout
+        android:id="@+id/create_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone" >
+
+        <ImageView
+            android:id="@+id/grey_logo"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_margin="10dp"
+            android:contentDescription="@string/image_des"
+            android:scaleType="fitXY"
+            android:src="@drawable/launcher_icon" />
+
+        <com.group.nearme.util.MyTextView
+            android:id="@+id/spannable_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_toRightOf="@+id/grey_logo"
+            android:text="@string/after_create_group_system_post"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:layout_below="@+id/grey_logo"
+            android:background="@drawable/listview_divider_gradient" />
+    </RelativeLayout>
+    <Button
+        android:id="@+id/new_post"
+        android:layout_width="wrap_content"
+        android:layout_height="25dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/new_post_bg"
+        android:paddingBottom="3dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:paddingTop="3dp"
+        android:text="NEW POSTS"
+        android:textColor="@color/white"
+        android:textSize="14sp"
+        android:visibility="gone" />
+
+    <RelativeLayout
+        android:id="@+id/layout"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/white" >
+
+        <ImageView
+            android:id="@+id/camera"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:contentDescription="@string/image_des"
+            android:src="@drawable/black_camera_icon" />
+
+        <com.group.nearme.util.MyTextView
+            android:id="@+id/post"
+            android:layout_width="70dp"
+            android:layout_height="32dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:background="@color/tab_color"
+            android:gravity="center"
+            android:text="POST"
+            android:textColor="@color/white"
+            android:textSize="13sp" />
+
+        <EditText
+            android:id="@+id/text_box"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_centerVertical="true"
+            android:layout_margin="10dp"
+            android:layout_toLeftOf="@+id/post"
+            android:layout_toRightOf="@+id/camera"
+            android:background="@drawable/light_grey_box"
+            android:hint="Write your message here..."
+            android:inputType="textCapSentences|textMultiLine"
+            android:maxLines="30"
+            android:paddingLeft="8dp"
+            android:textColor="@color/black"
+            android:textColorHint="@color/light_gray"
+            android:textSize="16sp" />
+    </RelativeLayout>
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_centerInParent="true"
+        android:visibility="visible" />
+
+</RelativeLayout>

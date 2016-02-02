@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingBottom="8dp"
+    android:paddingTop="8dp" >
+
+    <com.parse.ParseImageView
+        android:id="@+id/group_image"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="10dp"
+        android:background="@drawable/borders"
+        android:contentDescription="@string/image_des"
+        android:scaleType="fitXY"
+        />
+
+    <com.group.nearme.util.MyTextView
+        android:id="@+id/group_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_toLeftOf="@+id/admin"
+        android:layout_toRightOf="@+id/group_image"
+        android:text="Christ College Buzz"
+        android:textColor="@color/black"
+        android:textSize="16sp" />
+
+    <FrameLayout
+        android:id="@+id/members"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_below="@+id/group_name"
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@+id/group_image" >
+
+        <ImageView
+            android:id="@+id/total_member_image"
+            android:layout_width="15dp"
+            android:layout_height="15dp"
+            android:layout_marginBottom="2dp"
+            android:alpha="0.6"
+            android:contentDescription="@string/image_des"
+            android:src="@drawable/new_members" />
+    </FrameLayout>
+
+    <com.group.nearme.util.MyTextView
+        android:id="@+id/total_member"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_below="@+id/group_name"
+        android:layout_marginLeft="3.5dp"
+        android:layout_toRightOf="@+id/members"
+        android:gravity="bottom"
+        android:text="78"
+        android:textColor="#7E7E7E"
+        android:textSize="12sp" />
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_below="@+id/group_name"
+        android:layout_marginLeft="12dp"
+        android:layout_toRightOf="@+id/total_member" >
+
+        <com.group.nearme.util.MyTextView
+            android:id="@+id/group_type"
+            android:layout_width="wrap_content"
+            android:layout_height="15dp"
+            android:layout_marginBottom="1.5dp"
+            android:gravity="left"
+            android:text="PRIVATE"
+            android:textColor="@color/light_gray"
+            android:textSize="12sp" />
+    </FrameLayout>
+
+    <com.group.nearme.util.MyTextView
+        android:id="@+id/admin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="10dp"
+        android:text="Admin"
+        android:textColor="#7E7E7E"
+        android:textSize="13sp" />
+
+    <TextView
+        android:id="@+id/unread_count"
+        android:layout_width="30dp"
+        android:layout_height="20dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/blue_box"
+        android:gravity="center"
+        android:text="199"
+        android:textColor="@color/title_bar_color"
+        android:textSize="12sp" />
+
+  
+</RelativeLayout>

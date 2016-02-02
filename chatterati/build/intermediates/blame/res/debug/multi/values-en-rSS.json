@@ -1,0 +1,887 @@
+[
+    {
+        "outputFile": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\values-en-rSS\\values-en-rSS.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 60,
+                    "endOffset": 111
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-en-rSS\\values-en-rSS.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 231,
+                        "endColumn": 60,
+                        "endOffset": 287
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 116,
+                    "endColumn": 61,
+                    "endOffset": 173
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-en-rSS\\values-en-rSS.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 292,
+                        "endColumn": 61,
+                        "endOffset": 349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 178,
+                    "endColumn": 79,
+                    "endOffset": 253
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-en-rSS\\values-en-rSS.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 354,
+                        "endColumn": 79,
+                        "endOffset": 429
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 258,
+                    "endColumn": 90,
+                    "endOffset": 344
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-en-rSS\\values-en-rSS.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 434,
+                        "endColumn": 90,
+                        "endOffset": 520
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 349,
+                    "endColumn": 98,
+                    "endOffset": 443
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-en-rSS\\values-en-rSS.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 525,
+                        "endColumn": 98,
+                        "endOffset": 619
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 448,
+                    "endColumn": 136,
+                    "endOffset": 580
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-en-rSS\\values-en-rSS.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 624,
+                        "endColumn": 136,
+                        "endOffset": 756
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 585,
+                    "endColumn": 121,
+                    "endOffset": 702
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-en-rSS\\values-en-rSS.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 761,
+                        "endColumn": 121,
+                        "endOffset": 878
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 707,
+                    "endColumn": 62,
+                    "endOffset": 765
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-en-rSS\\values-en-rSS.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 883,
+                        "endColumn": 62,
+                        "endOffset": 941
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 770,
+                    "endColumn": 77,
+                    "endOffset": 843
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-en-rSS\\values-en-rSS.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 946,
+                        "endColumn": 77,
+                        "endOffset": 1019
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 848,
+                    "endColumn": 82,
+                    "endOffset": 926
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-en-rSS\\values-en-rSS.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1024,
+                        "endColumn": 82,
+                        "endOffset": 1102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 931,
+                    "endColumn": 59,
+                    "endOffset": 986
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-en-rSS\\values-en-rSS.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1107,
+                        "endColumn": 59,
+                        "endOffset": 1162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 991,
+                    "endColumn": 54,
+                    "endOffset": 1041
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-en-rSS\\values-en-rSS.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1167,
+                        "endColumn": 54,
+                        "endOffset": 1217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1046,
+                    "endColumn": 82,
+                    "endOffset": 1124
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-en-rSS\\values-en-rSS.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1222,
+                        "endColumn": 82,
+                        "endOffset": 1300
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1129,
+                    "endColumn": 84,
+                    "endOffset": 1209
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-en-rSS\\values-en-rSS.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1305,
+                        "endColumn": 84,
+                        "endOffset": 1385
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1214,
+                    "endColumn": 79,
+                    "endOffset": 1289
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-en-rSS\\values-en-rSS.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1390,
+                        "endColumn": 79,
+                        "endOffset": 1465
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1294,
+                    "endColumn": 91,
+                    "endOffset": 1381
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-en-rSS\\values-en-rSS.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1470,
+                        "endColumn": 91,
+                        "endOffset": 1557
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1386,
+                    "endColumn": 83,
+                    "endOffset": 1465
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-en-rSS\\values-en-rSS.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1562,
+                        "endColumn": 83,
+                        "endOffset": 1641
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1470,
+                    "endColumn": 81,
+                    "endOffset": 1547
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-en-rSS\\values-en-rSS.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1646,
+                        "endColumn": 81,
+                        "endOffset": 1723
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1552,
+                    "endColumn": 98,
+                    "endOffset": 1646
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-en-rSS\\values-en-rSS.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1728,
+                        "endColumn": 98,
+                        "endOffset": 1822
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1651,
+                    "endColumn": 59,
+                    "endOffset": 1706
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-en-rSS\\values-en-rSS.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1827,
+                        "endColumn": 59,
+                        "endOffset": 1882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1711,
+                    "endColumn": 53,
+                    "endOffset": 1760
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-en-rSS\\values-en-rSS.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1887,
+                        "endColumn": 53,
+                        "endOffset": 1936
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1765,
+                    "endColumn": 78,
+                    "endOffset": 1839
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-en-rSS\\values-en-rSS.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1941,
+                        "endColumn": 78,
+                        "endOffset": 2015
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1844,
+                    "endColumn": 85,
+                    "endOffset": 1925
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-en-rSS\\values-en-rSS.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 2020,
+                        "endColumn": 85,
+                        "endOffset": 2101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1930,
+                    "endColumn": 102,
+                    "endOffset": 2028
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-en-rSS\\values-en-rSS.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2106,
+                        "endColumn": 102,
+                        "endOffset": 2204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2033,
+                    "endColumn": 93,
+                    "endOffset": 2122
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-en-rSS\\values-en-rSS.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 2209,
+                        "endColumn": 93,
+                        "endOffset": 2298
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2127,
+                    "endColumn": 61,
+                    "endOffset": 2184
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-en-rSS\\values-en-rSS.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 2303,
+                        "endColumn": 61,
+                        "endOffset": 2360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2189,
+                    "endColumn": 69,
+                    "endOffset": 2254
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-en-rSS\\values-en-rSS.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 2365,
+                        "endColumn": 69,
+                        "endOffset": 2430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2259,
+                    "endColumn": 320,
+                    "endOffset": 2575
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-en-rSS\\values-en-rSS.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 2435,
+                        "endColumn": 320,
+                        "endOffset": 2751
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2580,
+                    "endLine": 31,
+                    "endColumn": 126,
+                    "endOffset": 2796
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-en-rSS\\values-en-rSS.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2756,
+                        "endLine": 33,
+                        "endColumn": 126,
+                        "endOffset": 2972
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2801,
+                    "endLine": 33,
+                    "endColumn": 142,
+                    "endOffset": 3015
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-en-rSS\\values-en-rSS.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2977,
+                        "endLine": 35,
+                        "endColumn": 142,
+                        "endOffset": 3191
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3020,
+                    "endColumn": 293,
+                    "endOffset": 3309
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-en-rSS\\values-en-rSS.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 3196,
+                        "endColumn": 293,
+                        "endOffset": 3485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 3314,
+                    "endColumn": 298,
+                    "endOffset": 3608
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-en-rSS\\values-en-rSS.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 3490,
+                        "endColumn": 298,
+                        "endOffset": 3784
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3613,
+                    "endColumn": 63,
+                    "endOffset": 3672
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-en-rSS\\values-en-rSS.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 3789,
+                        "endColumn": 63,
+                        "endOffset": 3848
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3677,
+                    "endColumn": 104,
+                    "endOffset": 3777
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-en-rSS\\values-en-rSS.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 3853,
+                        "endColumn": 104,
+                        "endOffset": 3953
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3782,
+                    "endColumn": 98,
+                    "endOffset": 3876
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-en-rSS\\values-en-rSS.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 3958,
+                        "endColumn": 98,
+                        "endOffset": 4052
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 3881,
+                    "endColumn": 106,
+                    "endOffset": 3983
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-en-rSS\\values-en-rSS.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 4057,
+                        "endColumn": 106,
+                        "endOffset": 4159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3988,
+                    "endColumn": 90,
+                    "endOffset": 4074
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-en-rSS\\values-en-rSS.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 4164,
+                        "endColumn": 90,
+                        "endOffset": 4250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 4079,
+                    "endColumn": 114,
+                    "endOffset": 4189
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-en-rSS\\values-en-rSS.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 4255,
+                        "endColumn": 114,
+                        "endOffset": 4365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 4194,
+                    "endColumn": 298,
+                    "endOffset": 4488
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-en-rSS\\values-en-rSS.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 4370,
+                        "endColumn": 298,
+                        "endOffset": 4664
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 4493,
+                    "endColumn": 79,
+                    "endOffset": 4568
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-en-rSS\\values-en-rSS.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 4669,
+                        "endColumn": 79,
+                        "endOffset": 4744
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 4573,
+                    "endColumn": 122,
+                    "endOffset": 4691
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-en-rSS\\values-en-rSS.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 4749,
+                        "endColumn": 122,
+                        "endOffset": 4867
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 4696,
+                    "endColumn": 61,
+                    "endOffset": 4753
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.3\\res\\values-en-rSS\\values-en-rSS.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 238,
+                        "endColumn": 61,
+                        "endOffset": 295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 4758,
+                    "endColumn": 75,
+                    "endOffset": 4829
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.3\\res\\values-en-rSS\\values-en-rSS.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 300,
+                        "endColumn": 75,
+                        "endOffset": 371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 4834,
+                    "endColumn": 65,
+                    "endOffset": 4895
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.3\\res\\values-en-rSS\\values-en-rSS.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 376,
+                        "endColumn": 65,
+                        "endOffset": 437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 4900,
+                    "endLine": 49,
+                    "endColumn": 73,
+                    "endOffset": 5079
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.3\\res\\values-en-rSS\\values-en-rSS.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 442,
+                        "endLine": 8,
+                        "endColumn": 73,
+                        "endOffset": 621
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 5084,
+                    "endColumn": 84,
+                    "endOffset": 5164
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.3\\res\\values-en-rSS\\values-en-rSS.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 626,
+                        "endColumn": 84,
+                        "endOffset": 706
+                    }
+                }
+            }
+        ]
+    }
+]

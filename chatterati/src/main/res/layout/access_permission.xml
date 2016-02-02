@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="10dp"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/title_bar_color" >
+
+        <ImageView
+            android:id="@+id/back"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:contentDescription="@string/image_des"
+            android:src="@drawable/white_backbutton" />
+
+        <com.group.nearme.util.MyTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:layout_toRightOf="@+id/back"
+            android:text="Access Permissions"
+            android:textColor="@color/white"
+            android:textAppearance="?android:attr/textAppearanceMedium"/>
+    </RelativeLayout>
+
+    <com.group.nearme.util.MyTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="15dp"
+        android:gravity="center_vertical"
+        android:text="Set Access Permissions"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="33dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="15dp" >
+
+        <com.group.nearme.util.MyTextView
+            android:id="@+id/secret_code_txt"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_marginTop="3dp"
+            android:layout_toLeftOf="@+id/secret_code_toggle"
+            android:gravity="center_vertical"
+            android:text="Set a Secret Passcode"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <com.group.nearme.onoffswitch.SwitchButton
+            android:id="@+id/secret_code_toggle"
+             style="@style/SwitchButtonStyle"
+            android:layout_alignParentRight="true"
+            android:layout_marginLeft="5dp"
+            android:checked="false" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/secret_code_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="10dp"
+        android:orientation="vertical" >
+
+        <com.group.nearme.util.MyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:gravity="center_vertical"
+            android:lineSpacingExtra="5dp"
+            android:text="@string/secret_code_info"
+            android:textColor="@color/light_gray"
+            android:textSize="14sp"
+            android:textStyle="italic" />
+
+        <EditText
+            android:id="@+id/secret_code"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:background="@drawable/search_border"
+            android:gravity="center"
+            android:hint="Example: 3453"
+            android:inputType="textCapSentences"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="33dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="15dp" >
+
+        <com.group.nearme.util.MyTextView
+            android:id="@+id/additional_info_txt"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginTop="3dp"
+            android:layout_toLeftOf="@+id/additional_info_toggle"
+            android:gravity="center_vertical"
+            android:text="Ask for other information"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <com.group.nearme.onoffswitch.SwitchButton
+            android:id="@+id/additional_info_toggle"
+            android:layout_alignParentRight="true"
+            android:layout_marginLeft="5dp"
+             style="@style/SwitchButtonStyle"
+            android:checked="false" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/additional_info_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="10dp"
+        android:orientation="vertical"
+        android:visibility="gone" >
+
+        <com.group.nearme.util.MyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:gravity="center_vertical"
+            android:lineSpacingExtra="10dp"
+            android:text="@string/additional_info"
+            android:textColor="@color/light_gray"
+            android:textSize="14sp"
+            android:textStyle="italic" />
+
+        <EditText
+            android:id="@+id/additional_info"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:background="@drawable/search_border"
+            android:hint="Example: Appt #, Dorm #, Room #...etc"
+            android:inputType="textCapSentences"
+            android:paddingLeft="7dp"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="bottom"
+        android:layout_marginTop="25dp" >
+
+        <Button
+            android:id="@+id/next"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_gravity="bottom"
+            android:background="@drawable/blue_btn"
+            android:text="DONE"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:textColor="@color/white"
+            android:textStyle="bold" />
+
+        <ProgressBar
+            android:id="@+id/progressBar"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="bottom|center_horizontal"
+            android:visibility="gone" />
+    </FrameLayout>
+
+</LinearLayout>

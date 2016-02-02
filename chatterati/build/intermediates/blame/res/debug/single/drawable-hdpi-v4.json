@@ -1,0 +1,794 @@
+[
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\black_backbutton.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\black_backbutton.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\private_icon.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\private_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_normal.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_open.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\new_open.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refresh_arrow.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\refresh_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_home.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\new_home.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_route_on_1_mono_dark.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_media_route_on_1_mono_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orange_filled_star.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\orange_filled_star.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alert.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\alert.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\txt_down_arrow.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\txt_down_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatterati_text_logo.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\chatterati_text_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_secret.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\new_secret.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_members.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\new_members.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_route_disabled_mono_dark.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_media_route_disabled_mono_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_route_on_mono_dark.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_media_route_on_mono_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_route_off_mono_dark.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_media_route_off_mono_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\places_ic_search.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-hdpi\\places_ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\down2.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\down2.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_route_on_0_mono_dark.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_media_route_on_0_mono_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\apptheme_tab_unselected_holo.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\apptheme_tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_play.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_media_play.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\create_group.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\create_group.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\flag.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\flag.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dgts__spinner_light.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\drawable-hdpi\\dgts__spinner_light.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dgts__logo.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\drawable-hdpi\\dgts__logo.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_settings.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\new_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\crop__ic_done.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\crop__ic_done.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\powered_by_google_dark.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-hdpi\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\open.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\open.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_ic_googleplayservices.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ptr_pulltorefresh_arrow.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\ptr_pulltorefresh_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\apptheme_tab_selected_focused_holo.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\apptheme_tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\reject.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\reject.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\powered_by_google_light.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-hdpi\\powered_by_google_light.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bgd_gradient.jpg",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\bgd_gradient.jpg"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\up2.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\up2.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\txt_up_arrow.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\txt_up_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_ptr_flip.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\Chatterati\\library\\unspecified\\res\\drawable-hdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rsz_new_create.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\rsz_new_create.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_w1.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\new_w1.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_small_off_client.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.4.0\\res\\drawable-hdpi\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\unlocked.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\unlocked.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\indicator_arrow.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\Chatterati\\library\\unspecified\\res\\drawable-hdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_on_0_light.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_cast_on_0_light.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_tick.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\new_tick.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\grey_logo.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\grey_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_create.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\new_create.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\noti_icon.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\noti_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_drawer.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_setting_light.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_setting_light.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\about_you.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\about_you.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_pause.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_media_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orange_empty_star.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\orange_empty_star.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\up1.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\up1.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_my_profile.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\new_my_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_setting_dark.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_setting_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tw__share_email_header.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.3\\res\\drawable-hdpi\\tw__share_email_header.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_on_light.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_cast_on_light.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\down1.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\down1.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_pause_light.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_pause_light.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_route_on_2_mono_dark.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_media_route_on_2_mono_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_notification_1.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.4.0\\res\\drawable-hdpi\\cast_ic_notification_1.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\create_group2.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\create_group2.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_play_light.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_play_light.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dgts__logo_name.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\drawable-hdpi\\dgts__logo_name.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\white_star.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\white_star.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_share.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\new_share.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\drawer_shadow.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\apptheme_tab_unselected_pressed_holo.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\apptheme_tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\first_time_group_profile.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\first_time_group_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_dark.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_cast_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\marker.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\marker.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tw__ic_logo_default.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.3\\res\\drawable-hdpi\\tw__ic_logo_default.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\white_member.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\white_member.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatterati_white.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\chatterati_white.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_medium_off_client.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.4.0\\res\\drawable-hdpi\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\group_image.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\group_image.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_w4.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\new_w4.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_pause_dark.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_pause_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\black_camera_icon.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\black_camera_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_standard_off_client.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.4.0\\res\\drawable-hdpi\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_notification_0.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.4.0\\res\\drawable-hdpi\\cast_ic_notification_0.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\white_logo_text.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\white_logo_text.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\places_ic_clear.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-hdpi\\places_ic_clear.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\secret.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\secret.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_off_light.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_cast_off_light.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_focused.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_private.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\new_private.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_light.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_cast_light.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\profile_pic.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\profile_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_w2.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\new_w2.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rsz_new_home.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\rsz_new_home.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_reject.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\new_reject.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_on_1_light.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_cast_on_1_light.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\apptheme_tab_selected_holo.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\apptheme_tab_selected_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\crop__divider.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\crop__divider.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_notification.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\new_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\crop__ic_cancel.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\crop__ic_cancel.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_accept.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\new_accept.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\about_app.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\about_app.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_play_dark.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_play_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_notification_2.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.4.0\\res\\drawable-hdpi\\cast_ic_notification_2.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_disabled_light.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_cast_disabled_light.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_w3.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\new_w3.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_search.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\new_search.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dgts__login_header.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\drawable-hdpi\\dgts__login_header.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\apptheme_tab_selected_pressed_holo.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\apptheme_tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\white_backbutton.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\white_backbutton.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\delete.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dgts__addressbook_header.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\drawable-hdpi\\dgts__addressbook_header.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refresh_btn_normal.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\refresh_btn_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_ptr_rotate.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\Chatterati\\library\\unspecified\\res\\drawable-hdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\launcher_icon.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\launcher_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_pending_invites.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\new_pending_invites.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\comment_grey.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\comment_grey.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_on_2_light.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_cast_on_2_light.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dgts__spinner_dark.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\drawable-hdpi\\dgts__spinner_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\up_vote.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\up_vote.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\comment2.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\comment2.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_cross.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\new_cross.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_chatter.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\new_chatter.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_tall_off_client.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.4.0\\res\\drawable-hdpi\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\apptheme_tab_unselected_focused_holo.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\apptheme_tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_notification_on.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.4.0\\res\\drawable-hdpi\\cast_ic_notification_on.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\drawable-hdpi\\menu.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dgts__ic_success.png",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\drawable-hdpi\\dgts__ic_success.png"
+    }
+]

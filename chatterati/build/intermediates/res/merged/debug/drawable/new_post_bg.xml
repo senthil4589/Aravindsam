@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle" >
+
+    <gradient
+        android:centerColor="@color/title_bar_color"
+        android:endColor="@color/title_bar_color"
+        android:startColor="@color/title_bar_color" />
+    <stroke
+        android:width="0.5dp"
+        android:color="@color/title_bar_color" />
+    
+</shape>

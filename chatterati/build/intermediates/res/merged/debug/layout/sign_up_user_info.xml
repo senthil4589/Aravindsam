@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:fillViewport="true" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingBottom="10dp" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@color/title_bar_color" >
+
+            <com.group.nearme.util.MyTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:text="About You"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/white" />
+        </RelativeLayout>
+
+        <FrameLayout
+            android:id="@+id/image_root_layout"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:background="@color/first_time_profile_bg" >
+
+            <ImageView
+                android:id="@+id/upload_profile_pic"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:adjustViewBounds="true"
+                android:contentDescription="@string/image_des"
+                android:scaleType="centerCrop" />
+
+            <ImageView
+                android:id="@+id/placeholder"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_gravity="center"
+                android:contentDescription="@string/image_des"
+                android:scaleType="centerInside"
+                android:src="@drawable/upload_image" />
+        </FrameLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_marginTop="20dp" >
+
+            <com.group.nearme.util.MyTextView
+                android:id="@+id/name_label"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="15dp"
+                android:gravity="center_vertical"
+                android:text="NAME *"
+                android:textColor="@color/black"
+                android:textSize="16sp" />
+
+            <EditText
+                android:id="@+id/name"
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:layout_marginLeft="55dp"
+                android:layout_marginRight="10dp"
+                android:layout_toRightOf="@+id/name_label"
+                android:background="@drawable/name_email_bg"
+                android:hint="25 characters max"
+                android:imeOptions="actionNext"
+                android:inputType="textCapWords"
+                android:maxLength="25"
+                android:paddingLeft="7dp"
+                android:textSize="14sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp" >
+
+            <com.group.nearme.util.MyTextView
+                android:id="@+id/email_label"
+                android:layout_width="wrap_content"
+                android:layout_height="35dp"
+                android:layout_marginLeft="15dp"
+                android:gravity="center_vertical"
+                android:text="EMAIL *"
+                android:textColor="@color/black"
+                android:textSize="16sp" />
+
+            <EditText
+                android:id="@+id/email"
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:layout_marginLeft="55dp"
+                android:layout_marginRight="10dp"
+                android:layout_toRightOf="@+id/email_label"
+                android:background="@drawable/name_email_bg"
+                android:hint="Enter your email"
+                android:imeOptions="actionNext"
+                android:inputType="textEmailAddress"
+                android:paddingLeft="7dp"
+                android:textSize="14sp" />
+
+            <com.group.nearme.util.MyTextView
+                android:id="@+id/gender_label"
+                android:layout_width="wrap_content"
+                android:layout_height="35dp"
+                android:layout_below="@+id/email_label"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="20dp"
+                android:gravity="center_vertical"
+                android:text="GENDER"
+                android:textColor="@color/black"
+                android:textSize="16sp" />
+
+            <RadioGroup
+                android:id="@+id/gender"
+                android:layout_width="fill_parent"
+                android:layout_height="35dp"
+                android:layout_below="@+id/email"
+                android:layout_marginLeft="48dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="20dp"
+                android:layout_toRightOf="@+id/email_label"
+                android:orientation="horizontal" >
+
+                <RadioButton
+                    android:id="@+id/male"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:checked="true"
+                    android:text="MALE"
+                    android:textSize="14sp" />
+
+                <RadioButton
+                    android:id="@+id/female"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:text="FEMALE"
+                    android:textSize="14sp" />
+            </RadioGroup>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_marginTop="20dp" >
+
+            <com.group.nearme.util.MyTextView
+                android:id="@+id/age_group_lable"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="15dp"
+                android:gravity="center_vertical"
+                android:text="AGE GROUP"
+                android:textColor="@color/black"
+                android:textSize="16sp" />
+
+            <Spinner
+                android:id="@+id/age_spinner"
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="10dp"
+                android:layout_toRightOf="@+id/age_group_lable"
+                android:background="@drawable/spinner_bg"
+                android:gravity="center"
+                android:spinnerMode="dropdown" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_marginTop="20dp" >
+
+            <com.group.nearme.util.MyTextView
+                android:id="@+id/occupation_lable"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="15dp"
+                android:gravity="center_vertical"
+                android:text="OCCUPATION"
+                android:textColor="@color/black"
+                android:textSize="16sp" />
+
+            <Spinner
+                android:id="@+id/occupation_spinner"
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:layout_marginLeft="5.5dp"
+                android:layout_marginRight="10dp"
+                android:layout_toRightOf="@+id/occupation_lable"
+                android:background="@drawable/spinner_bg"
+                android:gravity="center"
+                android:spinnerMode="dropdown" />
+        </RelativeLayout>
+    <!--      <RelativeLayout
+            android:id="@+id/city_layout"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_marginTop="20dp" >
+
+            <com.group.nearme.util.MyTextView
+                android:id="@+id/city_lable"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="15dp"
+                android:gravity="center_vertical"
+                android:text="CITY *"
+                android:textColor="@color/black"
+                android:textSize="16sp" />
+
+            <AutoCompleteTextView
+                android:id="@+id/city_auto_complete"
+                 android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:layout_marginLeft="70dp"
+                android:layout_marginRight="10dp"
+                android:layout_toRightOf="@+id/city_lable"
+                android:background="@drawable/name_email_bg"
+                android:hint="Enter your city"
+                android:imeOptions="actionNext"
+                android:inputType="textEmailAddress"
+                android:paddingLeft="7dp"
+                android:textSize="14sp" />
+
+        </RelativeLayout>
+ -->
+        
+
+        <com.group.nearme.util.MyTextView
+            android:id="@+id/spannable_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="35dp"
+            android:gravity="center_horizontal"
+            android:text="@string/terms_and_privacy"
+            android:textColor="@color/black"
+            android:textSize="15dp" />
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="bottom"
+            android:layout_marginTop="25dp" >
+
+            <TextView
+                android:id="@+id/done"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_gravity="bottom"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:background="@drawable/blue_btn"
+                android:gravity="center"
+                android:text="@string/done"
+                android:textColor="@color/white"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+
+            <ProgressBar
+                android:id="@+id/progressBar"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_gravity="bottom|center_horizontal"
+                android:visibility="gone" />
+        </FrameLayout>
+    </LinearLayout>
+
+</ScrollView>

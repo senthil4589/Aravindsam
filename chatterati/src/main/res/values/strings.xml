@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name">Chatterati</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="welcome">WELCOME TO CHATTERATI</string>
+    <string name="image_des">Image</string>
+    <string name="app_info">CREATE FUN AND USEFUL GROUPS AT ANY \nLOCATION.\n\n GROUPS AT A LOCATION CAN ONLY  BE FOUND AND JOINED BY PEOPLE NEARBY THAT LOCATION.\n\nMEMBERS CAN ACCESS GROUPS FROM ANYWHERE.</string>
+    <string name="get_started">GET STARTED</string>
+    <string name="terms_and_conditions">TERMS AND CONDITIONS</string>
+    <string name="whats_you_mobile_no">WHAT\'S YOUR MOBILE NUMBER?</string>
+    <string name="next">NEXT</string>
+    <string name="privacy_policy">PRIVACY POLICY</string>
+    <string name="enter_mobile_no">ENTER YOUR MOBILE NUMBER</string>
+    <string name="enter_security_code">Enter Security Code</string>
+    <string name="terms_and_privacy">By clicking DONE you accept Chatterati\'s Terms of Service and Privacy Policy</string>
+    <string name="about_you">About You</string>
+    <string name="choose_country">Choose Country</string>
+    <string name="feed_back">Choose Category</string>
+    <string name="name">NAME </string>
+    <string name="enter_your_name">ENTER YOUR NAME</string>
+    <string name="male">MALE</string>
+    <string name="female">FEMALE</string>
+    <string name="upload_profile_pic">UPLOAD YOUR PROFILE PICTURE</string>
+    <string name="done">DONE</string>
+    <string name="about_you_info">Choose a name that will help group owners identity you and accept your join requests to Private Groups. You can change your name later.</string>
+    <string name="about_you_info2">Don\'t worry you can post anonymously in Public Groups</string>
+    <string name="create_group">Create Group</string>
+    <string name="settings">Settings</string>
+    <string name="terms_of_service">Terms of Service</string>
+    <string name="my_profile">My Profile</string>
+    <string name="rules">Rules</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="rate_this_app">Rate this app</string>
+    <string name="privacy_policy1">Privacy Policy</string>
+    <string name="public_group_des">Anyone can join without approval.</string>
+    <string name="private_group_des">Invitation or approval is required to join. Option to set passcode.</string>
+    <string name="secret_group_des">No one can find this group. Join only by invitation</string>
+    <string name="common_group_info">Only members can view posts in all groups and Members can interact with the group from anywhere.</string>
+    <string name="map_info">(Adjust map to reposition your group)</string>
+    <string name="choose_nearby_group">Choose nearby group from dropdown</string>
+    <string name="name_change_rules">Name can be changed only 3 times</string>
+    <string name="about_group">About GROUP</string>
+    <string name="mute_group">MUTE GROUP</string>
+    <string name="clear_conversation">CLEAR CONVERSATIONS</string>
+    <string name="exit_group">EXIT GROUP</string>
+    <string name="invite_others">INVITE OTHERS</string>
+    <string name="group_media">GROUP MEDIA</string>
+    <string name="google_map_api_key">AIzaSyBbSOwQGuLnHZo6Y41hg7n90WsZ97zosYA</string>
+    <string name="google_map_api_key_new">AIzaSyCzKKgbQ9-etWXkNkoehs2w2-6w5V4UArY</string>
+    <string name="google_map_release_api_key">AIzaSyD22-c5slRss3tkDaAL9bXXdqdxxkoSlM8</string>
+    <string name="google_map_laptop_key">AIzaSyB3wytC-PZ9c1iz6ZC_bxMJY37dXGSOxWs</string>
+    <string name="gcm_sender_id">567776695104</string>
+    <string name="capture_pic">Take Photo</string>
+    <string name="upload_a_img">Photo Gallery</string>
+    <string name="create_group1">CREATE A GROUP</string>
+    <string name="user_score1">Chatterati has a 5-Star rating system</string>
+    <string name="user_score2"> \nYour rating goes up for interesting, useful, engaging, smart and fun posts
+           \n\nYou earn points for up votes and lose points for down votes on your posts  
+           \n\nYou also earn points for keeping this place clean by down voting and flagging irrelevant and offensive posts
+           \n\nYour rating goes down when your posts are down voted or flagged and you could be suspended or blocked
+           \n\nChatterati has zero tolerance for bullying and specifically targeting any individual. Expect strict action from Chatterati and full disclosure when law enforcers approach us</string>
+    <string name="user_score3">Keep it fun and clean, useful and entertaining.</string>
+    <string name="user_score4">Have a great time</string>
+
+    <string-array name="country_array">
+        <item>India</item>
+        <item>US</item>
+    </string-array>
+    <string-array name="country_code_array">
+        <item>+91</item>
+        <item>+1</item>
+    </string-array>
+    <string-array name="category_array">
+        <item>Give us feedback</item>
+        <item>Request a feature</item>
+        <item>Contact us with your question</item>
+    </string-array>
+    <string-array name="menu_item_array">
+        <item>User</item>
+        <item>My Profile</item>
+        <item>Pending Invites</item>
+        <item>Settings</item>
+        <item>Terms of Service</item>
+        <item>Privacy Policy</item>
+        <item>Policies and Guidelines</item>
+        <item>Contact Us</item>
+    </string-array>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="ptr_pull_to_refresh">Pull to refresh</string>
+    <string name="ptr_release_to_refresh">Release to refresh</string>
+    <string name="ptr_refreshing">Refreshing…</string>
+    <string name="ptr_last_updated">Updated: %1$s</string>
+    <string name="demo_min_label">Min</string>
+    <string name="demo_max_label">Max</string>
+    <string name="invite_info">You can pre-approve all members of any other group to join this group. Green Channel a group.</string>
+    <string name="secret_code_info">You can set a secret code for your group and share it with friends. Users will be prompted to enter this code when they join the group. Users with the right secret code will not need any approval to join this group.</string>
+    <string name="additional_info">You can ask users for additional information when they request to join your group. This information can help you identify them and approve their requests.</string>
+    <string name="any_member">Any member can approve</string>
+    <string name="only_admin">Only admins can approve</string>
+    <string name="crop__saving">Saving picture…</string>
+    <string name="crop__wait">Please wait…</string>
+    <string name="crop__pick_error">No image sources available</string>
+    <string name="crop__done">DONE</string>
+    <string name="crop__cancel" tools:ignore="ButtonCase">CANCEL</string>
+
+    <!-- System post ! -->
+    <string name="near_by_system_post">We couldn\'t find any groups nearby. Pull to refresh and try again or create a group here.</string>
+    <string name="my_group_system_post">Looks like you haven\'t joined any groups yet. Pull to refresh and try again or join a group from groups nearby.</string>
+    <string name="after_create_group_system_post">Lets get started. Post something interesting or share a photo. Invite others to your group.</string>
+    <string name="feed_system_post">We couldn\'t find any posts here. Pull to refresh and try again or post something interesting. </string>
+    <string name="photos_system_post">Looks like no photos have been posted in this group. Pull to refresh and try again. </string>
+
+    <!-- Info message ! -->
+    <string name="new_member">newly joined this group</string>
+    <string name="secret_code_update_success">Secret code updated successfully</string>
+    <string name="additional_info_update_success">Additional info updated successfully</string>
+    <string name="push_notification_settings_update_success">Settings saved successfully</string>
+    <string name="comment_text_empty">Write a comment</string>
+    <string name="flag_already_done">you have already flagged this post</string>
+    <string name="post_delete">Post deleted successfully</string>
+    <string name="flag_empty">Please select an option</string>
+    <string name="contact_us_empty_category">Please choose category</string>
+    <string name="contact_us_request_sent_success">Your request sent successfully</string>
+    <string name="create_group_empty_selection">Please select a group type</string>
+    <string name="create_group_success">Group created successfully</string>
+    <string name="group_location_update_success">Group location updated successfully</string>
+    <string name="post_text_empty">Please write something to post</string>
+    <string name="additional_info_empty">Please enter additional info to join this group</string>
+    <string name="group_info_update_success">Group info updated successfully</string>
+    <string name="invite_members_empty_no_send">Please add mobile number to send invitation</string>
+    <string name="invitation_sent_success">Invitation sent successfully</string>
+    <string name="make_admin_done">Done</string>
+    <string name="my_profile_update_success">Profile updated successfully</string>
+    <!--
+   <string name="crop__done">DONE</string>
+   <string name="crop__done">DONE</string>
+   <string name="crop__done">DONE</string>
+   <string name="crop__done">DONE</string>
+   <string name="crop__done">DONE</string>
+   <string name="crop__done">DONE</string>
+   
+   <string name="crop__done">DONE</string>
+    -->
+    <!-- Error message ! -->
+    <string name="server_issue">Service unavailable please try later</string>
+    <string name="location_failed">Unable to get your location</string>
+    <string name="mobile_no_invalid">Please enter a valid mobile number</string>
+    <string name="mobile_no_empty">Please enter a valid number</string>
+    <string name="user_suspended">Your account has been suspended. You may try later.</string>
+    <string name="user_blocked">Your account has been blocked</string>
+    <string name="verification_code_incorrect">Incorrect verification code</string>
+    <string name="verification_code_empty">Please enter verification code</string>
+    <string name="user_name_empty">Please enter your name</string>
+    <string name="gender_empty">Select Gender</string>
+    <string name="user_image_empty">Please upload a profile image</string>
+    <string name="email_invalid">Invalid email address</string>
+    <string name="email_empty">Please enter a valid email address</string>
+    <string name="group_name_empty">Please enter group name</string>
+    <string name="group_des_empty">Please write a description for your group</string>
+    <string name="group_image_empty">Please upload a group image</string>
+    <string name="group_name_exist">Group name already exists. Please try another name</string>
+    <string name="delete_post">Are you sure you want to delete this post?</string>
+    <string name="ask_secret_code">Please enter passcode to join this group</string>
+    <string name="invalid_secret_code">Incorrect Passcode entered</string>
+    <string name="contact_us_feedback_empty">Description cannot be empty</string>
+    <string name="exit_group_one_member">Exiting the group will result in this group being deleted permanantly. Are you sure you want to exit?</string>
+    <string name="exit_group_member">Are you sure you wish to exit this group?</string>
+    <string name="exit_group_only_one_admin">You cannot exit this group as you are the only admin. Make someone else the admin and then try again.</string>
+    <string name="additional_info_error">Enter a question or ask additional information from new users that apply to join this group</string>
+    <string name="secret_code_error">Enter passcode you seek from new users that apply to join this group</string>
+    <string name="invitation_accept">You need to be within the groups visibility range to part of this group. Once you are in range you will be part of this group.</string>
+    <string name="no_network">Please check your network connection</string>
+
+
+    <!-- Bussiness group alert msg -->
+    <string name="business_name_empty">Please enter business name</string>
+    <string name="business_address_empty">Please enter business location</string>
+    <string name="business_phone_empty">Please enter phone number</string>
+    <string name="product_name_empty">Please enter product name</string>
+    <string name="product_des_empty">Please enter product description</string>
+    <string name="product_price_empty">Please enter product price</string>
+    <string name="product_image_empty">Please upload product image</string>
+
+
+    <!-- Version 2 -->
+    <string name="policy_guidelines">1. Chatterati has zero tolerance for offensive content, bullying and specifically targeting anyone
+\n\n2. Keep your group clean by down voting irrelevant posts and flagging offensive posts
+\n\n3. Users will be penalised, suspended or blocked from the app if their posts are flagged by others
+\n\n4.Users can be suspended or banned for posting offensive content
+\n\n5. You earn points for interesting, engaging, smart and fun posts and up votes
+\n\n6.Please don\'t share your contact details on Public Groups
+\n\n7.Remember we have your contact details and are obligated to pass it on to Law Enforcement Authorities when requested legally </string>
+
+    <string name="group_settings_saved">Group settings saved successfully</string>
+    <string name="post_approval_text">Posted successfully. Post will appear when approved by Group Admin.</string>
+     <string name="post_approval_requires">Posts require admin approval</string>
+     
+     <string name="tag_name_exist">already exists. Please try another name</string>
+    <!--  <string name="no_tags">Looks like no tags have been created in this group. Pull to refresh and try again. </string> -->
+      <string name="tag_multi_edit">Please select single tag to edit</string>
+        <string name="tag_nothing_edit">Please select any tag to edit</string>
+        <string name="city_group_system_post">We couldn\'t find any groups. Pull to refresh and try again or create a group here.</string>
+        
+         <string name="tag_post_success">Post tagged successfully</string>
+          <string name="post_approval">Approve or Reject this post</string>
+           <string name="private_access_permission">Only admin can approve\nnew member requests</string>
+
+    <string-array name="age_group__array">
+        <item>15 to 20</item>
+        <item>21 to 24</item>
+        <item>25 to 35</item>
+        <item>36 to 45</item>
+        <item>46 to 55</item>
+        <item>56 and above</item>
+    </string-array>
+     <string-array name="occupation1_array">
+        <item>High School</item>
+        <item>College</item>
+    </string-array>
+     <string-array name="occupation2_array">
+        <item>Studying</item>
+        <item>Homemaker</item>
+        <item>Professional</item>
+        <item>Employed</item>
+        <item>Self employed</item>
+    </string-array>
+     <string-array name="occupation3_array">
+        <item>Self Employed</item>
+        <item>Retired</item>
+        <item>Homemaker</item>
+    </string-array>
+  
+     <!--  New Create Group Strings -->
+      <string name="college_school_groups">COLLEGE AND SCHOOL</string>
+      <string name="interests_groups">INTERESTS</string>
+      <string name="activity_groups">ACTIVITY</string>
+      <string name="event_conference_groups">EVENTS AND CONFERENCES</string>
+      <string name="photo_sharing_groups">PHOTO SHARING</string>
+      <string name="friends_family_groups">FRIENDS AND FAMILY</string>
+      <string name="work_offices_groups">WORK AND OFFICE</string>
+      <string name="apartment_condos_groups">APARTMENT AND CONDOS</string>
+      <string name="buy_sell_trade_groups">BUY SELL TRADE</string>
+      
+      <string name="city_group_alert">Group visibility set to nearby. City wide visibility is a premium offering, contact us to make your group visible across the city.</string>
+       <string name="group_rules">Do\'s\nKeep this group clean and positive.\nUpvote the posts you like.\nDowvote or flag irrelevant or offensive posts and spam. We rely on your inputs.
+\n\nDon\'ts
+\nDon\'t use offensive language or target individuals. Admins can ban or remove you from this group.
+\nNo spam or ads please. 
+\nIf your posts are repeatedly downvoted the admins can ban you from the group.
+\nNo irrelevant posts.</string>
+
+</resources>

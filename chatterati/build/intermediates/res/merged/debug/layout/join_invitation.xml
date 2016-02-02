@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/borders"
+        >
+
+        <LinearLayout
+            android:id="@+id/layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            
+
+            <com.parse.ParseImageView
+                android:id="@+id/user_pic"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_margin="10dp"
+                android:layout_gravity="center_vertical"
+                android:contentDescription="@string/image_des"
+                android:scaleType="fitXY"
+                android:src="@drawable/profile_pic" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="10dp"
+                 >
+
+                <com.group.nearme.util.MyTextView
+                    android:id="@+id/join_invitation_txt"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Requested to join"
+                    android:textColor="@color/light_gray"
+                    android:layout_centerVertical="true"
+                    android:textSize="14sp"
+                    android:textStyle="bold" />
+
+                <com.group.nearme.util.MyTextView
+                    android:id="@+id/name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:layout_alignParentTop="true"
+                    android:text="Name : Senthil"
+                    android:textColor="@color/black"
+                    android:textSize="16sp" />
+
+                <com.group.nearme.util.MyTextView
+                    android:id="@+id/updated_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="3 hours ago"
+                    android:textColor="@color/light_gray"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginRight="5dp"
+                    android:textSize="10sp" />
+                <ImageView
+                android:id="@+id/reject"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:contentDescription="@string/image_des"
+                android:layout_alignParentBottom="true"
+                android:layout_toLeftOf="@+id/accept"
+                android:layout_marginRight="20dp"
+                android:src="@drawable/new_reject" />
+
+            <ImageView
+                android:id="@+id/accept"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/new_accept"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="5dp"
+                android:contentDescription="@string/image_des"
+               />
+                
+                
+            </RelativeLayout>
+       <!--  <LinearLayout 
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:orientation="vertical"
+            android:layout_marginRight="10dp">    
+            <ImageView
+                android:id="@+id/reject"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:contentDescription="@string/image_des"
+                android:scaleType="centerInside"
+                android:layout_gravity="right"
+                android:src="@drawable/new_reject" />
+
+            <ImageView
+                android:id="@+id/accept"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/new_accept"
+                android:layout_gravity="right"
+                android:contentDescription="@string/image_des"
+                android:scaleType="centerInside" />
+            
+        </LinearLayout>
+ -->        </LinearLayout>
+
+        <View
+            android:id="@+id/line1"
+            android:layout_width="match_parent"
+            android:layout_height="0.8dp"
+            android:layout_below="@+id/layout"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:background="#f4f4f4" />
+
+        <com.group.nearme.util.MyTextView
+            android:id="@+id/additional_info_lable"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/line1"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:textColor="@color/black"
+            android:visibility="gone"
+            android:textSize="18sp" />
+
+        <com.group.nearme.util.MyTextView
+            android:id="@+id/additional_info"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/additional_info_lable"
+            android:layout_margin="10dp"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+    </RelativeLayout>
+
+</LinearLayout>

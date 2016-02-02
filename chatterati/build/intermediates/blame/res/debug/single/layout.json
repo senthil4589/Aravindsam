@@ -1,0 +1,702 @@
+[
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\feed_info.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\feed_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\comment_list_item.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\comment_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\sdcard.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\sdcard.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\custom_title_bar.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\custom_title_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\invite_private_group.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\invite_private_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\chosse_group_category.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\chosse_group_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\group_info.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\group_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog_datepicker.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\alert_dialog_datepicker.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\create_group_profile.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\create_group_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\hash_tag_listview.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\hash_tag_listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\hash_tag_list_item.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\hash_tag_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\contact_listview.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\contact_listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\create_group_location.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\create_group_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\grid_item.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\grid_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\post_image.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\post_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\product_post_approval_view.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\product_post_approval_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\sub_topic_headerlay.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\sub_topic_headerlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\topic_feed_media.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\topic_feed_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\sign_up_user_info.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\sign_up_user_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\ptr_header.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\ptr_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\header_overlay.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\header_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\header_view.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\header_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\private_group_info.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\private_group_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\choose_image_video.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\choose_image_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\group_rules.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\group_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\simple_spinner_item.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\simple_spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\topic_list_item.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\topic_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\activity_listview.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\activity_listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\apptheme_tab_indicator_holo.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\apptheme_tab_indicator_holo.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\dgts__state_button.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\layout\\dgts__state_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\temp.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\temp.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\dgts__activity_failure.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\layout\\dgts__activity_failure.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\product_compose_view.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\product_compose_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\private_invite_others.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\private_invite_others.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\event_location.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\event_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\add_hash_tag.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\add_hash_tag.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\fab__listview_container.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\fab__listview_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\crop__layout_done_cancel.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\crop__layout_done_cancel.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\private_group_des.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\private_group_des.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\pending_approval_listview.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\pending_approval_listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\grid_view.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\grid_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\user_menu.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\user_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\sub_topic_listview.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\sub_topic_listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\tw__activity_oauth.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.3\\res\\layout\\tw__activity_oauth.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\fab__scrollview_container.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\fab__scrollview_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\group_settings.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\group_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\new_verification.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\new_verification.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\choose_picture.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\choose_picture.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\text_post.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\text_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\create_private_group.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\create_private_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\member_list_item.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\member_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\dgts__activity_confirmation.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\layout\\dgts__activity_confirmation.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\version.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\version.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\share_in_listview.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\share_in_listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\tw__activity_share_email.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.3\\res\\layout\\tw__activity_share_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\tab_group_view.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\tab_group_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\dgts__activity_contacts.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\layout\\dgts__activity_contacts.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\invite_secret_group.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\invite_secret_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\pending_invites_main_page.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\pending_invites_main_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\product_view.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\product_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\contact_us.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\contact_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\create_public_group.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\create_public_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\pending_invites.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\pending_invites.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\group_location.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\group_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\share_view.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\share_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\ask_additional_info.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\ask_additional_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\two_btn_dialog.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\two_btn_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\contact_us_spinner_item.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\contact_us_spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\group_purpose_grid_view.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\group_purpose_grid_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\contact_list_item.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\contact_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\choose_group_type.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\choose_group_type.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\my_group_list_item.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\my_group_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\share_link.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\share_link.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\edit_hash_tag.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\edit_hash_tag.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\checked_text_view.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\checked_text_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\hashtag_member_view.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\hashtag_member_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\fab__header_container.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\fab__header_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\youtube_player_view.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\youtube_player_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\post_list_view.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\post_list_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\send_log.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\send_log.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\group_profile.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\group_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\flag_view.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\flag_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\dgts__country_row.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\layout\\dgts__country_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\my_profile.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\my_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\menu_list_item.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\menu_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\post_event_view.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\post_event_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\notification_list_item.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\notification_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\notification_listview.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\notification_listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_list_item.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\near_by_me_list_item.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\near_by_me_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\member_profile.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\member_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\new_simple_spinner_item.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\new_simple_spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\new_get_mobile_no.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\new_get_mobile_no.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\user_badge.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\user_badge.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\access_permission.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\access_permission.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\manage_tags.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\manage_tags.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\topic_list_view.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\topic_list_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\dgts__activity_pin_code.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\layout\\dgts__activity_pin_code.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\member_listview.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\member_listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\video_view.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\video_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\app_settings.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\app_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\create_secret_group.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\create_secret_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\create_group.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\create_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\Chatterati\\library\\unspecified\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\tab_group_post.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\tab_group_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\group_item_list_view.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\group_item_list_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\crop__activity_crop.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\crop__activity_crop.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\fab__webview_container.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\fab__webview_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\topic_feed_listview.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\topic_feed_listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\hash_tag_feed_listview.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\hash_tag_feed_listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\featured_group_list.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\featured_group_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\join_invitation.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\join_invitation.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\secret_group_settings.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\secret_group_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\digits.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\digits.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\share_in_list_item.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\share_in_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\public_post_list_item.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\public_post_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\welcome1.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\welcome1.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\comment_list_view.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\comment_list_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\header.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\header.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\group_purpose_grid_item.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\group_purpose_grid_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\pager_item.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\pager_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\webview.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\webview.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\feed_photo_layout.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\feed_photo_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\dgts__activity_phone_number.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\layout\\dgts__activity_phone_number.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\image_full_view.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\image_full_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\post_approval_view.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\post_approval_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\policy_guidelines.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\policy_guidelines.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\choose_media.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\choose_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\Chatterati\\library\\unspecified\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\near_by_me_list_view.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\near_by_me_list_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\layout\\create_group_settings.xml",
+        "source": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\src\\main\\res\\layout\\create_group_settings.xml"
+    }
+]

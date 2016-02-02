@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\values-xhdpi-v4\\values-xhdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.3\\res\\values-xhdpi\\values-xhdpi.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 236,
+                        "endColumn": 54,
+                        "endOffset": 286
+                    }
+                }
+            }
+        ]
+    }
+]

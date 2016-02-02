@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="250dp"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:background="@drawable/borders"
+    android:orientation="vertical" >
+
+    <TextView
+         style="@style/custom_dialog_title"
+         android:text="Select Picture"/>
+
+      <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/listview_divider_gradient" />
+
+    <TextView
+        android:id="@+id/take_photo"
+        android:text="Take Photo"
+        style="@style/custom_dialog_content"/>
+       
+      <View
+        android:layout_width="match_parent"
+        android:layout_height="0.25dp"
+        android:background="@drawable/listview_divider_gradient" />
+
+    <TextView
+        android:id="@+id/from_gallery"
+        android:text="Choose from Library"
+        style="@style/custom_dialog_content"/>
+</LinearLayout>

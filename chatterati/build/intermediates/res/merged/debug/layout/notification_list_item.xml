@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="80dp"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp" 
+       >
+
+        <com.android.volley.toolbox.NetworkImageView
+            android:id="@+id/notification_image"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_centerVertical="true"
+            android:layout_margin="10dp"
+            android:scaleType="fitXY"
+            android:contentDescription="@string/image_des"
+            />
+
+        <com.group.nearme.util.MyTextView
+            android:id="@+id/notification_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/notification_image"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:textSize="16sp"
+            android:textColor="@color/black" />
+
+        <TextView
+            android:id="@+id/updated_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:text="5 minutes ago"
+            android:layout_marginRight="10dp"
+            android:layout_toRightOf="@+id/notification_image"
+            android:textColor="#7E7E7E"
+            android:layout_alignParentBottom="true"
+            android:textSize="12sp" />
+    </RelativeLayout>
+
+</LinearLayout>

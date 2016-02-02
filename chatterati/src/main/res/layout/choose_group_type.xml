@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/top"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/title_bar_color" >
+
+        <ImageView
+            android:id="@+id/back"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+           
+            android:contentDescription="@string/image_des"
+            android:src="@drawable/white_backbutton" />
+
+        <com.group.nearme.util.MyTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:layout_toRightOf="@+id/back"
+            android:text="Create Group"
+          
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/white" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/top"
+         >
+        <ImageView 
+            android:id="@+id/large_image"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitXY"
+            android:contentDescription="@string/image_des"
+            />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/black_transparent" />
+
+        <com.group.nearme.util.MyTextView
+            android:id="@+id/group_purpose"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="20dp"
+            android:text="ACTIVITY"
+            android:inputType="textCapCharacters"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/white" />
+
+        <View
+            android:id="@+id/line"
+            android:layout_width="200dp"
+            android:layout_height="0.5dp"
+            android:layout_below="@+id/group_purpose"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="7dp"
+            android:layout_marginBottom="7dp"
+            android:alpha="0.4"
+            android:background="@color/white" />
+
+        <com.group.nearme.util.MyTextView
+            android:id="@+id/group_purpose_des"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/line"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:textSize="17sp"
+            android:textColor="@color/white" />
+
+        <RelativeLayout
+            android:id="@+id/group_type_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/next"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="10dp" >
+
+            <com.group.nearme.util.MyTextView
+                android:id="@+id/select_group_type"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Select type"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/white" />
+
+            <View
+                android:id="@+id/line1"
+                android:layout_width="200dp"
+                android:layout_height="0.5dp"
+                android:layout_below="@+id/select_group_type"
+                android:layout_marginBottom="7dp"
+                android:layout_marginTop="7dp"
+                android:alpha="0.4"
+                android:background="@color/white" />
+
+            <RadioGroup
+                android:id="@+id/group_type_radio_group"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/line1"
+                android:orientation="horizontal" >
+
+                <RadioButton
+                    android:id="@+id/open_group"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:checked="true"
+                      android:button="@drawable/radio_btn_bg"
+                    android:text="Open"
+                    android:paddingLeft="10dp"
+                    android:textColor="@color/white"
+                    android:textSize="15sp" />
+
+                <RadioButton
+                    android:id="@+id/private_group"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Private"
+                    android:button="@drawable/radio_btn_bg"
+                    android:paddingLeft="10dp"
+                    android:textColor="@color/white"
+                    android:textSize="15sp" />
+
+                <RadioButton
+                    android:id="@+id/secret_group"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Secret"
+                    android:textColor="@color/white"
+                    android:paddingLeft="10dp"
+                   android:button="@color/white"
+                   
+                    android:visibility="gone"
+                    android:textSize="15sp" />
+            </RadioGroup>
+
+            <com.group.nearme.util.MyTextView
+                android:id="@+id/group_type_des"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_below="@+id/group_type_radio_group"
+                android:layout_marginTop="5dp"
+                android:text="@string/public_group_des"
+                android:textColor="@color/white"
+                android:textSize="15sp" />
+        </RelativeLayout>
+
+        <Button
+            android:id="@+id/next"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/blue_btn"
+            android:layout_above="@+id/txt"
+            android:text="NEXT"
+            android:textColor="@color/white"
+            android:textStyle="bold" />
+        
+        <TextView 
+            android:id="@+id/txt"
+            android:layout_width="match_parent"
+            android:layout_height="5dp"
+            android:layout_alignParentBottom="true"
+            android:visibility="invisible"/>
+        
+           </RelativeLayout>
+           
+    <ProgressBar 
+        android:id="@+id/progressBar"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_centerInParent="true"
+        android:visibility="gone"/>
+
+</RelativeLayout>

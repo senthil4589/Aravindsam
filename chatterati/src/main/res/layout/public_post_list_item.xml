@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/feed_card_shadow"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <com.parse.ParseImageView
+                android:id="@+id/user_pic"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:contentDescription="@string/image_des"
+                android:scaleType="fitXY" />
+            <RelativeLayout
+                android:id="@+id/user_info_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/user_pic">
+            <com.group.nearme.util.MyTextView
+                android:id="@+id/user_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="7dp"
+                android:textColor="@color/light_gray"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <com.group.nearme.util.MyTextView
+                android:id="@+id/updated_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/user_name"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="2dp"
+                android:background="@color/white"
+                android:textColor="@color/light_gray"
+                android:textSize="10sp" />
+            </RelativeLayout>
+            <RelativeLayout
+                android:id="@+id/share_origin_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="7dp"
+                android:layout_marginTop="7dp"
+                android:layout_marginRight="7dp"
+                android:visibility="gone"
+                android:gravity="right"
+                android:layout_toRightOf="@+id/user_info_layout"
+                android:layout_toLeftOf="@+id/delete">
+                <com.group.nearme.util.MyTextView
+                    android:id="@+id/share_from"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/light_gray"
+                    android:text="from"
+                    android:textSize="13sp" />
+                <com.group.nearme.util.MyTextView
+                    android:id="@+id/share_origin_group_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/title_bar_color"
+                    android:layout_below="@+id/share_from"
+                    android:singleLine="true"
+                    android:textSize="16sp" />
+
+            </RelativeLayout>
+
+
+            <ImageView
+                android:id="@+id/delete"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="3dp"
+                android:layout_marginTop="5dp"
+                android:contentDescription="@string/image_des"
+                android:scaleType="fitXY"
+                android:src="@drawable/delete" />
+
+            <ImageView
+                android:id="@+id/flag"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="3dp"
+                android:layout_marginTop="5dp"
+                android:contentDescription="@string/image_des"
+                android:scaleType="fitXY"
+                android:src="@drawable/flag" />
+
+            <View
+                android:id="@+id/line1"
+                android:layout_width="match_parent"
+                android:layout_height="0.8dp"
+                android:layout_below="@+id/user_info_layout"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                android:background="#f4f4f4" />
+
+            <com.group.nearme.util.MyTextView
+                android:id="@+id/post_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/line1"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:autoLink="web"
+                android:ellipsize="end"
+                android:maxLines="4"
+                android:minHeight="80dp"
+                android:scrollHorizontally="true"
+                android:textColor="@color/black"
+                android:textSize="16sp" />
+
+            <com.group.nearme.util.MyTextView
+                android:id="@+id/image_caption"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/line1"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:textColor="@color/black"
+                android:textSize="16sp" />
+
+            <com.group.nearme.util.MyTextView
+                android:id="@+id/stype_abstract"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/image_caption"
+                android:layout_marginBottom="8dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+            <FrameLayout
+                android:id="@+id/post_image_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/image_caption" >
+
+                <com.group.nearme.util.ResizableImageView
+                    android:id="@+id/post_image"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:adjustViewBounds="true"
+                    android:background="#E4E4E4"
+                    android:contentDescription="@string/image_des"
+                    android:visibility="visible" />
+
+                <ProgressBar
+                    android:id="@+id/progressBar"
+                    style="?android:attr/progressBarStyleHorizontal"
+                    android:layout_width="70dp"
+                    android:layout_height="70dp"
+                    android:layout_gravity="center"
+                    android:background="@drawable/circle_shape"
+                    android:indeterminate="false"
+                    android:max="100"
+                    android:progress="0"
+                    android:progressDrawable="@drawable/circular_progress_bar"
+                    android:visibility="gone" />
+
+                <FrameLayout
+                    android:id="@+id/video_play_frame"
+                    android:layout_width="56dp"
+                    android:layout_height="42dp"
+                    android:layout_gravity="center"
+                    android:alpha="0.6"
+                    android:background="@drawable/gif_image_bg"
+                    android:visibility="gone" >
+
+                    <ImageView
+                        android:id="@+id/play_image"
+                        android:layout_width="56dp"
+                        android:layout_height="42dp"
+                        android:scaleType="fitXY"
+                        android:contentDescription="@string/image_des"
+                        android:src="@drawable/play_image"
+                        android:visibility="visible" />
+                </FrameLayout>
+            </FrameLayout>
+
+            <RelativeLayout
+                android:id="@+id/svideo_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/image_caption"
+                android:visibility="gone" >
+
+                <VideoView
+                    android:id="@+id/videoView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:visibility="visible" />
+
+                <com.group.nearme.util.ResizableImageView
+                    android:id="@+id/svideo_bg_image"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:adjustViewBounds="true"
+                    android:background="#E4E4E4"
+                    android:contentDescription="@string/image_des"
+                    android:visibility="visible" />
+
+                <FrameLayout
+                    android:id="@+id/svideo_play_frame"
+                    android:layout_width="60dp"
+                    android:layout_height="36dp"
+                    android:layout_centerInParent="true"
+                    android:alpha="0.6"
+                    android:background="@drawable/gif_image_bg" >
+
+                    <ImageView
+                        android:id="@+id/svideo_play_image"
+                        android:layout_width="60dp"
+                        android:layout_height="36dp"
+                        android:contentDescription="@string/image_des"
+                        android:src="@drawable/gif_play"
+                        android:scaleType="fitXY"
+                        android:visibility="visible" />
+                </FrameLayout>
+
+                <ProgressBar
+                    android:id="@+id/video_progrss"
+                    style="?android:attr/progressBarStyleHorizontal"
+                    android:layout_width="70dp"
+                    android:layout_height="70dp"
+                    android:layout_centerInParent="true"
+                    android:background="@drawable/circle_shape"
+                    android:indeterminate="false"
+                    android:max="100"
+                    android:progress="0"
+                    android:progressDrawable="@drawable/circular_progress_bar"
+                    android:visibility="gone" />
+            </RelativeLayout>
+
+            <com.group.nearme.util.MyTextView
+                android:id="@+id/link_des"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/post_image_layout"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:textColor="@color/black"
+                android:textSize="16sp"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/link_url"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/link_des"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:textColor="#838383"
+                android:textStyle="italic"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/source_url"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/link_url"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:textColor="#838383"
+                android:textStyle="italic"
+                android:visibility="gone" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:visibility="gone" >
+
+            <com.group.nearme.util.MyTextView
+                android:id="@+id/points1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="10dp"
+                android:gravity="center_vertical"
+                android:textColor="@color/light_gray"
+                android:textSize="12sp" />
+
+            <ImageView
+                android:id="@+id/dot"
+                android:layout_width="2dp"
+                android:layout_height="2dp"
+                android:layout_marginTop="18dp"
+                android:layout_toRightOf="@+id/points1"
+                android:background="@color/light_gray"
+                android:contentDescription="@string/image_des" />
+
+            <com.group.nearme.util.MyTextView
+                android:id="@+id/comments_count1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="10dp"
+                android:layout_toRightOf="@+id/dot"
+                android:gravity="center_vertical"
+                android:textColor="@color/light_gray"
+                android:textSize="12sp" />
+        </RelativeLayout>
+
+        <View
+            android:id="@+id/line2"
+            android:layout_width="match_parent"
+            android:layout_height="0.8dp"
+            android:layout_marginTop="10dp"
+            android:background="#f4f4f4"
+            android:visibility="visible" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="45dp" >
+
+            <FrameLayout
+                android:id="@+id/upvote_frame"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_alignParentRight="true" >
+
+                <ImageView
+                    android:id="@+id/up_vote"
+                    android:layout_width="25dp"
+                    android:layout_height="25dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginRight="10dp"
+                    android:contentDescription="@string/image_des"
+                    android:scaleType="centerInside"
+                    android:src="@drawable/up1" />
+            </FrameLayout>
+
+            <FrameLayout
+                android:id="@+id/downvote_frame"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginRight="2dp"
+                android:layout_toLeftOf="@+id/points_layout" >
+
+                <ImageView
+                    android:id="@+id/down_vote"
+                    android:layout_width="25dp"
+                    android:layout_height="25dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginRight="8dp"
+                    android:contentDescription="@string/image_des"
+                    android:scaleType="centerInside"
+                    android:src="@drawable/down1" />
+            </FrameLayout>
+
+            <RelativeLayout
+                android:id="@+id/points_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="8dp"
+                android:layout_toLeftOf="@+id/upvote_frame"
+                android:gravity="center_vertical" >
+
+                <com.group.nearme.util.MyTextView
+                    android:id="@+id/points"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:text="250"
+                    android:textColor="@color/light_gray"
+                    android:textSize="12sp" />
+
+                <com.group.nearme.util.MyTextView
+                    android:id="@+id/points_label"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/points"
+                    android:text="points"
+                    android:textColor="@color/light_gray"
+                    android:textSize="12sp" />
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/hash"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="30dp"
+                android:layout_toRightOf="@+id/comments_count"
+                android:background="@drawable/hash1" />
+
+            <ImageView
+                        android:id="@+id/share"
+                        android:layout_width="21dp"
+                        android:layout_height="21dp"
+                        android:layout_marginLeft="10dp"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerVertical="true"
+                        android:contentDescription="@string/image_des"
+                        android:src="@drawable/grey_share"
+                        android:visibility="visible" />
+ <TextView
+                android:id="@+id/replies"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_centerVertical="true"
+                android:background="@drawable/comment_grey"
+                android:layout_toRightOf="@+id/share"
+                android:textColor="@color/light_gray"
+                android:layout_marginLeft="30dp"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/comments_count"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="10dp"
+                android:layout_toRightOf="@+id/replies"
+                android:textColor="#C4C4C4"
+                android:textSize="14sp" />
+        </RelativeLayout>
+    </LinearLayout>
+
+</LinearLayout>

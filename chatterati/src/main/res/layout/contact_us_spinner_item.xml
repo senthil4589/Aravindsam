@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.group.nearme.util.MyTextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@android:id/text1"
+    style="?android:attr/spinnerItemStyle"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:ellipsize="marquee"
+    android:singleLine="true"
+    android:gravity="center_vertical"
+    android:paddingLeft="5dp"
+    android:textColor="@color/light_gray"
+    android:textSize="16sp"
+    android:textAlignment="inherit" />

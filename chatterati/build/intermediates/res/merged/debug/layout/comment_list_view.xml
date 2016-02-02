@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/list_view_bg" >
+
+    <RelativeLayout
+        android:id="@+id/top"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/title_bar_color" >
+
+        <ImageView
+            android:id="@+id/back"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:contentDescription="@string/image_des"
+            android:src="@drawable/white_backbutton" />
+
+        <RelativeLayout
+            android:id="@+id/group_info_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="5dp"
+            android:layout_toRightOf="@+id/back" >
+
+            <com.parse.ParseImageView
+                android:id="@+id/group_image"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dp"
+                android:contentDescription="@string/image_des"
+                android:scaleType="fitXY" />
+
+            <com.group.nearme.util.MyTextView
+                android:id="@+id/group_name"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginRight="10dp"
+                android:layout_toRightOf="@+id/group_image"
+                android:gravity="center_vertical"
+                android:singleLine="true"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/white"
+                android:textStyle="bold" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <com.handmark.pulltorefresh.library.PullToRefreshScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/layout"
+        android:layout_below="@+id/top" >
+
+        <LinearLayout
+            android:id="@+id/post_item_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/feed_card_shadow"
+                android:orientation="vertical" >
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+
+                    <com.parse.ParseImageView
+                        android:id="@+id/user_pic"
+                        android:layout_width="35dp"
+                        android:layout_height="35dp"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="10dp"
+                        android:contentDescription="@string/image_des"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/profile_pic" />
+
+                    <com.group.nearme.util.MyTextView
+                        android:id="@+id/user_name"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="7dp"
+                        android:layout_toRightOf="@+id/user_pic"
+                        android:textColor="@color/light_gray"
+                        android:textSize="16sp" />
+
+                    <com.group.nearme.util.MyTextView
+                        android:id="@+id/updated_time"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/user_name"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="2dp"
+                        android:layout_toRightOf="@+id/user_pic"
+                        android:background="@color/white"
+                        android:textColor="@color/light_gray"
+                        android:textSize="10sp" />
+
+                    <ImageView
+                        android:id="@+id/delete"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_alignParentRight="true"
+                        android:layout_marginRight="3dp"
+                        android:layout_marginTop="5dp"
+                        android:contentDescription="@string/image_des"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/delete" />
+
+                    <ImageView
+                        android:id="@+id/flag"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_alignParentRight="true"
+                        android:layout_marginRight="3dp"
+                        android:layout_marginTop="5dp"
+                        android:contentDescription="@string/image_des"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/flag" />
+
+                    <View
+                        android:id="@+id/line1"
+                        android:layout_width="match_parent"
+                        android:layout_height="0.8dp"
+                        android:layout_below="@+id/updated_time"
+                        android:layout_marginBottom="10dp"
+                        android:layout_marginTop="10dp"
+                        android:background="#f4f4f4" />
+
+                    <com.group.nearme.util.MyTextView
+                        android:id="@+id/post_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/line1"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:autoLink="web"
+                        android:textColor="@color/black"
+                        android:textSize="16sp" />
+
+                    <com.group.nearme.util.MyTextView
+                        android:id="@+id/image_caption"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/line1"
+                        android:layout_marginBottom="5dp"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:textColor="@color/black"
+                        android:textSize="16sp" />
+
+                    <com.group.nearme.util.MyTextView
+                        android:id="@+id/stype_abstract"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/image_caption"
+                        android:layout_marginBottom="8dp"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:textColor="@color/black"
+                        android:textSize="14sp" />
+
+                    <FrameLayout
+                        android:id="@+id/post_image_layout"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/stype_abstract" >
+
+                        <com.group.nearme.util.ResizableImageView
+                            android:id="@+id/post_image"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="10dp"
+                            android:layout_marginRight="10dp"
+                            android:adjustViewBounds="true"
+                            android:background="#E4E4E4"
+                            android:contentDescription="@string/image_des"
+                            android:visibility="visible" />
+
+                        <ProgressBar
+                            android:id="@+id/progressBar"
+                            style="?android:attr/progressBarStyleHorizontal"
+                            android:layout_width="70dp"
+                            android:layout_height="70dp"
+                            android:layout_gravity="center"
+                            android:background="@drawable/circle_shape"
+                            android:indeterminate="false"
+                            android:max="100"
+                            android:progress="0"
+                            android:progressDrawable="@drawable/circular_progress_bar"
+                            android:visibility="gone" />
+
+                      <FrameLayout
+                    android:id="@+id/video_play_frame"
+                    android:layout_width="56dp"
+                    android:layout_height="42dp"
+                    android:layout_gravity="center"
+                    android:alpha="0.6"
+                    android:background="@drawable/gif_image_bg"
+                    android:visibility="gone" >
+
+                    <ImageView
+                        android:id="@+id/play_image"
+                        android:layout_width="56dp"
+                        android:layout_height="42dp"
+                        android:scaleType="fitXY"
+                        android:contentDescription="@string/image_des"
+                        android:src="@drawable/play_image"
+                        android:visibility="visible" />
+                </FrameLayout>
+                    </FrameLayout>
+
+                    <RelativeLayout
+                        android:id="@+id/svideo_layout"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/image_caption"
+                        android:visibility="gone" >
+
+                        <VideoView
+                            android:id="@+id/videoView"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentBottom="true"
+                            android:layout_alignParentLeft="true"
+                            android:layout_alignParentRight="true"
+                            android:layout_alignParentTop="true"
+                            android:layout_marginLeft="10dp"
+                            android:layout_marginRight="10dp"
+                            android:visibility="visible" />
+
+                        <com.group.nearme.util.ResizableImageView
+                            android:id="@+id/svideo_bg_image"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="10dp"
+                            android:layout_marginRight="10dp"
+                            android:adjustViewBounds="true"
+                            android:background="#E4E4E4"
+                            android:contentDescription="@string/image_des"
+                            android:visibility="visible" />
+
+                        <FrameLayout
+                            android:id="@+id/svideo_play_frame"
+                            android:layout_width="60dp"
+                            android:layout_height="36dp"
+                            android:layout_centerInParent="true"
+                            android:alpha="0.7"
+                            android:background="@drawable/gif_image_bg" >
+
+                            <ImageView
+                                android:id="@+id/svideo_play_image"
+                                android:layout_width="60dp"
+                                android:layout_height="36dp"
+                                android:contentDescription="@string/image_des"
+                                android:src="@drawable/gif_play"
+                                android:visibility="visible" />
+                        </FrameLayout>
+
+                        <ProgressBar
+                            android:id="@+id/video_progrss"
+                            style="?android:attr/progressBarStyleHorizontal"
+                            android:layout_width="70dp"
+                            android:layout_height="70dp"
+                            android:layout_centerInParent="true"
+                            android:background="@drawable/circle_shape"
+                            android:indeterminate="false"
+                            android:max="100"
+                            android:progress="0"
+                            android:progressDrawable="@drawable/circular_progress_bar"
+                            android:visibility="gone" />
+                    </RelativeLayout>
+
+                    <com.group.nearme.util.MyTextView
+                        android:id="@+id/link_des"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/post_image_layout"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:textColor="@color/black"
+                        android:textSize="16sp"
+                        android:visibility="gone" />
+
+                    <com.group.nearme.util.MyTextView
+                        android:id="@+id/link_url"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/link_des"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:textColor="#838383"
+                        android:textStyle="italic"
+                        android:visibility="gone" />
+
+                    <TextView
+                        android:id="@+id/source_url"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/link_url"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:textColor="#838383"
+                        android:textStyle="italic"
+                        android:visibility="gone" />
+                    <RelativeLayout
+                android:id="@+id/event_date_time_root_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/post_image_layout"
+                android:visibility="gone"
+                android:layout_margin="10dp" >
+
+                <RelativeLayout
+                    android:id="@+id/event_start_date_layout"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp" >
+
+                    <RelativeLayout
+                        android:layout_width="45dp"
+                        android:layout_height="45dp"
+                        android:layout_centerInParent="true"
+                        android:background="@drawable/blue_box" >
+
+                        <com.group.nearme.util.MyTextView
+                            android:id="@+id/event_start_month"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:text="Dec"
+                            android:textColor="@color/title_bar_color"
+                            android:textSize="14sp"
+                            android:visibility="visible" />
+
+                        <com.group.nearme.util.MyTextView
+                            android:id="@+id/event_start_day"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/event_start_month"
+                            android:gravity="center"
+                            android:text="22"
+                            android:textColor="@color/title_bar_color"
+                            android:textSize="22sp"
+                            android:visibility="visible" />
+                    </RelativeLayout>
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/event_start_end_date_time_layout"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@+id/event_start_date_layout" >
+
+                    <com.group.nearme.util.MyTextView
+                        android:id="@+id/event_start_end_date_txt"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="December 2 - December 6"
+                        android:textColor="@color/black"
+                        android:textSize="16sp"
+                        android:visibility="visible" />
+
+                    <com.group.nearme.util.MyTextView
+                        android:id="@+id/event_start_end_time_txt"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/event_start_end_date_txt"
+                        android:text="Dec 2 at 10.00am to Dec 6 at 8.00pm"
+                        android:textColor="@color/light_gray"
+                        android:textSize="14sp"
+                        android:visibility="visible" />
+                </RelativeLayout>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/event_location_root_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/event_date_time_root_layout"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginBottom="10dp"
+                android:visibility="gone"
+                android:layout_marginTop="5dp" >
+
+                <FrameLayout
+                    android:id="@+id/location_image"
+                    android:layout_width="70dp"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerInParent="true"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp" >
+
+                    <ImageView
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_gravity="center"
+                        android:contentDescription="@string/image_des"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/map_icon" >
+                    </ImageView>
+                </FrameLayout>
+
+                <RelativeLayout
+                    android:id="@+id/event_location_layout"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@+id/location_image" >
+
+                    <com.group.nearme.util.MyTextView
+                        android:id="@+id/event_address_line1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/black"
+                        android:textSize="16sp"
+                        android:visibility="visible" />
+                    <com.group.nearme.util.MyTextView
+                        android:id="@+id/area_name"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/event_address_line1"
+                        android:textColor="@color/light_gray"
+                        android:textSize="14sp"
+                        android:visibility="visible" />
+                    
+
+                    <com.group.nearme.util.MyTextView
+                        android:id="@+id/event_address_line2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/area_name"
+                        android:textColor="@color/light_gray"
+                        android:textSize="14sp"
+                        android:visibility="visible" />
+                </RelativeLayout>
+            </RelativeLayout>
+                </RelativeLayout>
+                <LinearLayout
+                    android:id="@+id/product_price_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_below="@+id/post_image_layout"
+                    android:layout_margin="10dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:layout_weight="1"
+                        android:layout_margin="10dp">
+
+                        <com.group.nearme.util.MyTextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/line1"
+                            android:layout_marginBottom="5dp"
+                            android:layout_marginLeft="10dp"
+                            android:layout_marginRight="10dp"
+                            android:textColor="@color/black"
+                            android:text="List Price"
+                            android:layout_gravity="center_horizontal"
+                            android:textSize="16sp" />
+
+                        <com.group.nearme.util.MyTextView
+                            android:id="@+id/actual_price"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/line1"
+                            android:layout_marginBottom="5dp"
+                            android:layout_marginLeft="10dp"
+                            android:layout_marginRight="10dp"
+                            android:textColor="@color/black"
+                            android:text="1000"
+                            android:layout_gravity="center_horizontal"
+                            android:textSize="16sp" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:layout_weight="1.2"
+                        android:layout_margin="10dp">
+
+                        <com.group.nearme.util.MyTextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/line1"
+                            android:layout_marginBottom="5dp"
+                            android:layout_marginLeft="10dp"
+                            android:layout_marginRight="10dp"
+                            android:textColor="@color/black"
+                            android:text="Offer"
+                            android:layout_gravity="center_horizontal"
+                            android:textSize="16sp" />
+
+                        <com.group.nearme.util.MyTextView
+                            android:id="@+id/offer_percentage"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/line1"
+                            android:layout_marginBottom="5dp"
+                            android:layout_marginLeft="10dp"
+                            android:layout_marginRight="10dp"
+                            android:textColor="@color/black"
+                            android:text="50"
+                            android:layout_gravity="center_horizontal"
+                            android:textSize="16sp" />
+
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:layout_weight="1"
+                        android:layout_margin="10dp">
+
+                        <com.group.nearme.util.MyTextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/line1"
+                            android:layout_marginBottom="5dp"
+                            android:layout_marginLeft="10dp"
+                            android:layout_marginRight="10dp"
+                            android:textColor="@color/black"
+                            android:text="Offer Price"
+                            android:layout_gravity="center_horizontal"
+                            android:textSize="16sp" />
+
+                        <com.group.nearme.util.MyTextView
+                            android:id="@+id/offer_price"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/line1"
+                            android:layout_marginBottom="5dp"
+                            android:layout_marginLeft="10dp"
+                            android:layout_marginRight="10dp"
+                            android:textColor="@color/black"
+                            android:text="50"
+                            android:layout_gravity="center_horizontal"
+                            android:textSize="16sp" />
+
+                    </LinearLayout>
+
+
+</LinearLayout>
+                    <View
+                    android:id="@+id/line2"
+                    android:layout_width="match_parent"
+                    android:layout_height="0.8dp"
+                    android:layout_marginTop="10dp"
+                    android:background="#f4f4f4" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="45dp" >
+
+                    <ImageView
+                        android:id="@+id/up_vote"
+                        android:layout_width="25dp"
+                        android:layout_height="25dp"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="10dp"
+                        android:contentDescription="@string/image_des"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/up1" />
+
+                    <ImageView
+                        android:id="@+id/down_vote"
+                        android:layout_width="25dp"
+                        android:layout_height="25dp"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="10dp"
+                        android:layout_toLeftOf="@+id/points_layout"
+                        android:contentDescription="@string/image_des"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/down1" />
+
+                    <RelativeLayout
+                        android:id="@+id/points_layout"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="8dp"
+                        android:layout_toLeftOf="@+id/up_vote"
+                        android:gravity="center_vertical" >
+
+                        <com.group.nearme.util.MyTextView
+                            android:id="@+id/points"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerHorizontal="true"
+                            android:text="250"
+                            android:textColor="@color/light_gray"
+                            android:textSize="12sp" />
+
+                        <com.group.nearme.util.MyTextView
+                            android:id="@+id/points_label"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/points"
+                            android:text="points"
+                            android:textColor="@color/light_gray"
+                            android:textSize="12sp" />
+                    </RelativeLayout>
+
+                    <ImageView
+                        android:id="@+id/share"
+                        android:layout_width="21dp"
+                        android:layout_height="21dp"
+                        android:layout_marginLeft="10dp"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerVertical="true"
+                        android:contentDescription="@string/image_des"
+                        android:src="@drawable/grey_share"
+                        android:visibility="visible" />
+
+                    <ImageView
+                        android:id="@+id/hash"
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="80dp"
+                         android:layout_toRightOf="@+id/share"
+                        android:background="@drawable/hash1"
+                        android:contentDescription="@string/image_des"
+                        android:src="@drawable/hash1" />
+                </RelativeLayout>
+            </LinearLayout>
+
+            <com.group.nearme.util.MyTextView
+                android:id="@+id/comment_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:gravity="center_vertical"
+                android:paddingLeft="8dp"
+                android:text="Comments"
+                android:textColor="@color/black"
+                android:textSize="16sp" />
+
+            <com.group.nearme.util.NonScrollListView
+                android:id="@+id/listview"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
+                android:background="@color/white"
+                android:divider="#E4E4E4"
+                android:dividerHeight="0.8dp" />
+        </LinearLayout>
+    </com.handmark.pulltorefresh.library.PullToRefreshScrollView>
+
+    <RelativeLayout
+        android:id="@+id/layout"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/white" >
+
+        <TextView
+            android:id="@+id/post"
+            android:layout_width="70dp"
+            android:layout_height="32dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:background="@color/tab_color"
+            android:gravity="center"
+            android:text="COMMENT"
+            android:textColor="@color/white"
+            android:textSize="13sp" />
+
+        <EditText
+            android:id="@+id/text_box"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_centerVertical="true"
+            android:layout_margin="10dp"
+            android:layout_toLeftOf="@+id/post"
+            android:background="@drawable/light_grey_box"
+            android:hint="Comment on the post..."
+            android:inputType="textCapSentences|textMultiLine"
+            android:maxLines="30"
+            android:paddingLeft="8dp"
+            android:textColor="@color/black"
+            android:textColorHint="@color/light_gray"
+            android:textSize="16sp" />
+    </RelativeLayout>
+
+    <ProgressBar
+        android:id="@+id/progressBar1"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_centerInParent="true"
+        android:visibility="gone" />
+
+</RelativeLayout>

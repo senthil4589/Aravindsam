@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scroll_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingBottom="10dp" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@color/title_bar_color" >
+
+            <ImageView
+                android:id="@+id/back"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="5dp"
+                android:contentDescription="@string/image_des"
+                android:src="@drawable/white_backbutton" />
+
+            <com.group.nearme.util.MyTextView
+                android:id="@+id/title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="5dp"
+                android:layout_toRightOf="@+id/back"
+                android:text="Group Settings"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/white" />
+        </RelativeLayout>
+
+        <com.group.nearme.util.MyTextView
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:gravity="center_vertical"
+            android:paddingLeft="15dp"
+            android:paddingRight="10dp"
+            android:text="POSTS AND COMMENTS"
+            android:textColor="@color/title_bar_color"
+            android:textSize="14sp" />
+
+        <View
+            android:id="@+id/line1"
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="@drawable/listview_divider_gradient" />
+
+         <RelativeLayout
+            android:id="@+id/who_can_post_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp" >
+
+            <com.group.nearme.util.MyTextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:paddingLeft="15dp"
+                android:paddingRight="10dp"
+                android:text="Only admin can post"
+                android:textColor="@color/black"
+                android:textSize="16sp" />
+
+            <com.group.nearme.onoffswitch.SwitchButton
+                android:id="@+id/who_can_post_toggle"
+                style="@style/MaterialDesignStyle"
+                android:layout_alignParentRight="true" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/who_can_comment_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp" >
+
+            <com.group.nearme.util.MyTextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:paddingLeft="15dp"
+                android:paddingRight="10dp"
+                android:text="Only admin can comment"
+                android:textColor="@color/black"
+                android:textSize="16sp" />
+
+            <com.group.nearme.onoffswitch.SwitchButton
+                android:id="@+id/who_can_comment_toggle"
+                style="@style/MaterialDesignStyle"
+                android:layout_alignParentRight="true" />
+        </RelativeLayout>
+
+        
+        <RelativeLayout
+             android:id="@+id/post_approval_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" 
+            android:layout_marginTop="10dp">
+
+            <com.group.nearme.util.MyTextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:paddingLeft="15dp"
+                android:paddingRight="10dp"
+                android:text="@string/post_approval_requires"
+                android:textColor="@color/black"
+                android:textSize="16sp" />
+
+            <com.group.nearme.onoffswitch.SwitchButton
+                android:id="@+id/post_approval_toggle"
+                style="@style/MaterialDesignStyle"
+                android:layout_alignParentRight="true" />
+        </RelativeLayout>
+
+        <com.group.nearme.util.MyTextView
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="15dp"
+            android:gravity="center_vertical"
+            android:paddingLeft="15dp"
+            android:paddingRight="10dp"
+            android:text="GROUP VISIBILITY TO NEW USERS"
+            android:textColor="@color/title_bar_color"
+            android:textSize="14sp" />
+
+        <View
+            android:id="@+id/line2"
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="@drawable/listview_divider_gradient" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <com.group.nearme.util.MyTextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:paddingLeft="15dp"
+                android:paddingRight="10dp"
+                android:text="Make group visible now"
+                android:textColor="@color/black"
+                android:textSize="16sp" />
+
+            <com.group.nearme.onoffswitch.SwitchButton
+                android:id="@+id/group_visibility_toggle"
+                style="@style/MaterialDesignStyle"
+                android:layout_alignParentRight="true" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/datePickerLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:visibility="gone" >
+
+            <com.group.nearme.util.MyTextView
+                android:id="@+id/date_lable"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="15dp"
+                android:layout_marginTop="15dp"
+                android:paddingLeft="15dp"
+                android:paddingRight="10dp"
+                android:text="Set a time to make group invisible"
+                android:textColor="@color/black"
+                android:textSize="16sp" />
+
+            <com.group.nearme.onoffswitch.SwitchButton
+                android:id="@+id/calendar_toggle"
+                style="@style/MaterialDesignStyle"
+                android:layout_alignParentRight="true" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/calendar_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:visibility="gone" >
+
+            <ImageView
+                android:id="@+id/date_picker"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="10dp"
+                android:contentDescription="@string/image_des"
+                android:src="@drawable/calendar_icon" />
+
+            <TextView
+                android:id="@+id/year"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="8dp"
+                android:layout_toRightOf="@+id/date_picker"
+                android:background="@drawable/grey_box"
+                android:paddingBottom="7dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:paddingTop="7dp"
+                android:text="2100"
+                android:textColor="@color/black"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/month"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="8dp"
+                android:layout_toRightOf="@+id/year"
+                android:background="@drawable/grey_box"
+                android:paddingBottom="7dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:paddingTop="7dp"
+                android:text="DEC"
+                android:textColor="@color/black"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/date"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="8dp"
+                android:layout_toRightOf="@+id/month"
+                android:background="@drawable/grey_box"
+                android:paddingBottom="7dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:paddingTop="7dp"
+                android:text="31"
+                android:textColor="@color/black"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="8dp"
+                android:layout_toRightOf="@+id/date"
+                android:background="@drawable/grey_box"
+                android:paddingBottom="7dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:paddingTop="7dp"
+                android:text="12.00 PM"
+                android:textColor="@color/black"
+                android:textSize="16sp" />
+        </RelativeLayout>
+         <LinearLayout
+                android:id="@+id/private_access_permission_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <com.group.nearme.util.MyTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginTop="15dp"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="15dp"
+                    android:paddingRight="10dp"
+                    android:text="ACCESS PERMISSIONS FOR PRIVATE GROUPS"
+                    android:textColor="@color/title_bar_color"
+                    android:textSize="14sp" />
+
+                <View
+                    android:id="@+id/line3"
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp"
+                    android:background="@drawable/listview_divider_gradient" />
+
+        
+        <RelativeLayout
+                    android:id="@+id/membership_approval_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp" >
+
+                    <com.group.nearme.util.MyTextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="15dp"
+                        android:paddingLeft="15dp"
+                        android:paddingRight="10dp"
+                        android:text="@string/private_access_permission"
+                        android:textColor="@color/black"
+                        android:textSize="16sp" />
+
+                    <com.group.nearme.onoffswitch.SwitchButton
+                        android:id="@+id/membership_approval_toggle"
+                        style="@style/MaterialDesignStyle"
+                        android:layout_alignParentRight="true" 
+                        android:layout_marginTop="10dp"/>
+                </RelativeLayout>
+      </LinearLayout>
+              <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="bottom"
+            android:layout_marginTop="20dp" >
+
+            <Button
+                android:id="@+id/save"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_gravity="bottom"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:background="@drawable/blue_btn"
+                android:text="SAVE"
+                android:textColor="@color/white"
+                android:textStyle="bold" />
+
+            <ProgressBar
+                android:id="@+id/progressBar"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_gravity="center_horizontal"
+                android:visibility="gone" />
+        </FrameLayout>
+    </LinearLayout>
+
+</ScrollView>

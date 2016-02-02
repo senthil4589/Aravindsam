@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/borders" >
+
+        <LinearLayout
+            android:id="@+id/layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:id="@+id/user_pic"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_margin="10dp"
+                android:contentDescription="@string/image_des"
+                android:scaleType="fitXY"
+                android:src="@drawable/profile_pic" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="63dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="7dp" >
+
+                <com.group.nearme.util.MyTextView
+                    android:id="@+id/invites_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:text="Invites you to join"
+                    android:textColor="@color/light_gray"
+                    android:textSize="14sp"
+                    android:textStyle="bold" />
+
+                <com.group.nearme.util.MyTextView
+                    android:id="@+id/group_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:text="Name : Senthil"
+                    android:textColor="@color/black"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
+                <FrameLayout
+                    android:id="@+id/members"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true" >
+
+                    <ImageView
+                        android:id="@+id/total_member_image"
+                        android:layout_width="15dp"
+                        android:layout_height="15dp"
+                        android:alpha="0.6"
+                        android:contentDescription="@string/image_des"
+                        android:layout_marginBottom="1.5dp"
+                        android:src="@drawable/new_members" />
+                </FrameLayout>
+
+                <com.group.nearme.util.MyTextView
+                    android:id="@+id/member_count"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginLeft="3.5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_toRightOf="@+id/members"
+                    android:text="3 hours ago"
+                    android:textColor="@color/light_gray"
+                    android:textSize="12sp" />
+
+                <ImageView
+                    android:id="@+id/reject"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginRight="20dp"
+                    android:layout_toLeftOf="@+id/accept"
+                    android:contentDescription="@string/image_des"
+                    android:src="@drawable/new_reject" />
+
+                <ImageView
+                    android:id="@+id/accept"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="5dp"
+                    android:contentDescription="@string/image_des"
+                    android:src="@drawable/new_accept" />
+            </RelativeLayout>
+        </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout>

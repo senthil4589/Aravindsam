@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/title_bar_color" >
+
+        <ImageView
+            android:id="@+id/back"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:contentDescription="@string/image_des"
+            android:src="@drawable/white_backbutton" />
+
+        <com.group.nearme.util.MyTextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:layout_toRightOf="@+id/back"
+            android:text="Group Members"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/white" />
+    </RelativeLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <EditText
+            android:id="@+id/search_box"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_margin="10dp"
+            android:background="@drawable/search_border"
+            android:inputType="text"
+            android:hint="Search"
+            android:paddingLeft="25dp"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="@color/light_gray" />
+        
+        <ImageView 
+            android:layout_width="15dp"
+            android:layout_height="15dp"
+            android:contentDescription="@string/image_des"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="22dp"
+            android:src="@drawable/search"/>
+         <!-- <ImageView 
+             android:id="@+id/close"
+            android:layout_width="15dp"
+            android:layout_height="15dp"
+            android:contentDescription="@string/image_des"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="18dp"
+            android:layout_gravity="right"
+            android:src="@drawable/delete"/> -->
+    </FrameLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <ListView
+            android:id="@+id/listview"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:background="#f4f4f4"
+            android:divider="@drawable/listview_divider_gradient"
+            android:dividerHeight="0.5dp" />
+
+        <ProgressBar
+            android:id="@+id/progressBar"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_centerInParent="true"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+</LinearLayout>

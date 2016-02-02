@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dp"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <com.group.nearme.util.MyTextView
+        android:id="@+id/add_new_tag"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/title_bar_color"
+        android:gravity="center"
+        android:text="ADD NEW TAGS"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/tag_name"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_below="@+id/add_new_tag"
+        android:layout_margin="20dp"
+        android:background="@drawable/name_email_bg"
+        android:gravity="left"
+        android:hint="Add your tags here"
+        android:imeOptions="actionNext"
+        android:inputType="textCapWords|textMultiLine"
+        android:paddingLeft="7dp"
+        android:paddingRight="7dp"
+        android:paddingTop="7dp"
+        android:textSize="14sp" />
+
+    <LinearLayout
+        android:id="@+id/add_edit_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tag_name"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/cancel"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:background="@drawable/blue_btn"
+            android:text="Cancel"
+             android:layout_marginRight="0.5dp"
+            android:textColor="@color/white"
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/save"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+           
+            android:layout_weight="1"
+            android:background="@drawable/blue_btn"
+            android:text="Save"
+            android:textColor="@color/white"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+</RelativeLayout>

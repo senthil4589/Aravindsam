@@ -1,0 +1,883 @@
+[
+    {
+        "outputFile": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\res\\merged\\debug\\values-ms\\values-ms.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-ms\\values-ms.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 227,
+                        "endColumn": 54,
+                        "endOffset": 277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 110,
+                    "endColumn": 54,
+                    "endOffset": 160
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-ms\\values-ms.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 54,
+                        "endOffset": 332
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 165,
+                    "endColumn": 66,
+                    "endOffset": 227
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-ms\\values-ms.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 337,
+                        "endColumn": 66,
+                        "endOffset": 399
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 232,
+                    "endColumn": 80,
+                    "endOffset": 308
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-ms\\values-ms.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 404,
+                        "endColumn": 80,
+                        "endOffset": 480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 313,
+                    "endColumn": 96,
+                    "endOffset": 405
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-ms\\values-ms.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 485,
+                        "endColumn": 96,
+                        "endOffset": 577
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 410,
+                    "endColumn": 126,
+                    "endOffset": 532
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-ms\\values-ms.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 582,
+                        "endColumn": 126,
+                        "endOffset": 704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 537,
+                    "endColumn": 117,
+                    "endOffset": 650
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-ms\\values-ms.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 709,
+                        "endColumn": 117,
+                        "endOffset": 822
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 655,
+                    "endColumn": 51,
+                    "endOffset": 702
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-ms\\values-ms.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 827,
+                        "endColumn": 51,
+                        "endOffset": 874
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 707,
+                    "endColumn": 67,
+                    "endOffset": 770
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-ms\\values-ms.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 879,
+                        "endColumn": 67,
+                        "endOffset": 942
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 775,
+                    "endColumn": 72,
+                    "endOffset": 843
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-ms\\values-ms.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 947,
+                        "endColumn": 72,
+                        "endOffset": 1015
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 848,
+                    "endColumn": 46,
+                    "endOffset": 890
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-ms\\values-ms.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1020,
+                        "endColumn": 46,
+                        "endOffset": 1062
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 895,
+                    "endColumn": 46,
+                    "endOffset": 937
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-ms\\values-ms.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1067,
+                        "endColumn": 46,
+                        "endOffset": 1109
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 942,
+                    "endColumn": 70,
+                    "endOffset": 1008
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-ms\\values-ms.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1114,
+                        "endColumn": 70,
+                        "endOffset": 1180
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1013,
+                    "endColumn": 75,
+                    "endOffset": 1084
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-ms\\values-ms.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1185,
+                        "endColumn": 75,
+                        "endOffset": 1256
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1089,
+                    "endColumn": 67,
+                    "endOffset": 1152
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-ms\\values-ms.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1261,
+                        "endColumn": 67,
+                        "endOffset": 1324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1157,
+                    "endColumn": 89,
+                    "endOffset": 1242
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-ms\\values-ms.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1329,
+                        "endColumn": 89,
+                        "endOffset": 1414
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1247,
+                    "endColumn": 74,
+                    "endOffset": 1317
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-ms\\values-ms.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1419,
+                        "endColumn": 74,
+                        "endOffset": 1489
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1322,
+                    "endColumn": 79,
+                    "endOffset": 1397
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-ms\\values-ms.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1494,
+                        "endColumn": 79,
+                        "endOffset": 1569
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1402,
+                    "endColumn": 95,
+                    "endOffset": 1493
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-ms\\values-ms.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1574,
+                        "endColumn": 95,
+                        "endOffset": 1665
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1498,
+                    "endColumn": 56,
+                    "endOffset": 1550
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-ms\\values-ms.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1670,
+                        "endColumn": 56,
+                        "endOffset": 1722
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1555,
+                    "endColumn": 43,
+                    "endOffset": 1594
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-ms\\values-ms.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1727,
+                        "endColumn": 43,
+                        "endOffset": 1766
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1599,
+                    "endColumn": 68,
+                    "endOffset": 1663
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-ms\\values-ms.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1771,
+                        "endColumn": 68,
+                        "endOffset": 1835
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1668,
+                    "endColumn": 80,
+                    "endOffset": 1744
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-ms\\values-ms.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1840,
+                        "endColumn": 80,
+                        "endOffset": 1916
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1749,
+                    "endColumn": 95,
+                    "endOffset": 1840
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-ms\\values-ms.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1921,
+                        "endColumn": 95,
+                        "endOffset": 2012
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1845,
+                    "endColumn": 87,
+                    "endOffset": 1928
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-ms\\values-ms.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 2017,
+                        "endColumn": 87,
+                        "endOffset": 2100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1933,
+                    "endColumn": 53,
+                    "endOffset": 1982
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-ms\\values-ms.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 2105,
+                        "endColumn": 53,
+                        "endOffset": 2154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1987,
+                    "endColumn": 59,
+                    "endOffset": 2042
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-ms\\values-ms.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 2159,
+                        "endColumn": 59,
+                        "endOffset": 2214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2047,
+                    "endColumn": 328,
+                    "endOffset": 2371
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-ms\\values-ms.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 2219,
+                        "endColumn": 328,
+                        "endOffset": 2543
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2376,
+                    "endLine": 31,
+                    "endColumn": 140,
+                    "endOffset": 2602
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-ms\\values-ms.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2548,
+                        "endLine": 33,
+                        "endColumn": 140,
+                        "endOffset": 2774
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2607,
+                    "endColumn": 237,
+                    "endOffset": 2840
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-ms\\values-ms.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2779,
+                        "endColumn": 237,
+                        "endOffset": 3012
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2845,
+                    "endColumn": 298,
+                    "endOffset": 3139
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-ms\\values-ms.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 3017,
+                        "endColumn": 298,
+                        "endOffset": 3311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3144,
+                    "endColumn": 307,
+                    "endOffset": 3447
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-ms\\values-ms.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 3316,
+                        "endColumn": 307,
+                        "endOffset": 3619
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 3452,
+                    "endColumn": 53,
+                    "endOffset": 3501
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-ms\\values-ms.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 3624,
+                        "endColumn": 53,
+                        "endOffset": 3673
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3506,
+                    "endColumn": 98,
+                    "endOffset": 3600
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-ms\\values-ms.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 3678,
+                        "endColumn": 98,
+                        "endOffset": 3772
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3605,
+                    "endColumn": 92,
+                    "endOffset": 3693
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-ms\\values-ms.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 3777,
+                        "endColumn": 92,
+                        "endOffset": 3865
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3698,
+                    "endColumn": 101,
+                    "endOffset": 3795
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-ms\\values-ms.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 3870,
+                        "endColumn": 101,
+                        "endOffset": 3967
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 3800,
+                    "endColumn": 76,
+                    "endOffset": 3872
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-ms\\values-ms.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 3972,
+                        "endColumn": 76,
+                        "endOffset": 4044
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3877,
+                    "endColumn": 107,
+                    "endOffset": 3980
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-ms\\values-ms.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 4049,
+                        "endColumn": 107,
+                        "endOffset": 4152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 3985,
+                    "endColumn": 358,
+                    "endOffset": 4339
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-ms\\values-ms.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 4157,
+                        "endColumn": 358,
+                        "endOffset": 4511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 4344,
+                    "endColumn": 66,
+                    "endOffset": 4406
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-ms\\values-ms.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 4516,
+                        "endColumn": 66,
+                        "endOffset": 4578
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 4411,
+                    "endColumn": 116,
+                    "endOffset": 4523
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\values-ms\\values-ms.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 4583,
+                        "endColumn": 116,
+                        "endOffset": 4695
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 4528,
+                    "endColumn": 54,
+                    "endOffset": 4578
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.3\\res\\values-ms\\values-ms.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 234,
+                        "endColumn": 54,
+                        "endOffset": 284
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 4583,
+                    "endColumn": 70,
+                    "endOffset": 4649
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.3\\res\\values-ms\\values-ms.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 289,
+                        "endColumn": 70,
+                        "endOffset": 355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 4654,
+                    "endColumn": 62,
+                    "endOffset": 4712
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.3\\res\\values-ms\\values-ms.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 360,
+                        "endColumn": 62,
+                        "endOffset": 418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 4717,
+                    "endColumn": 186,
+                    "endOffset": 4899
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.3\\res\\values-ms\\values-ms.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 423,
+                        "endColumn": 186,
+                        "endOffset": 605
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 4904,
+                    "endColumn": 74,
+                    "endOffset": 4974
+                },
+                "from": {
+                    "file": "C:\\Users\\senthilc\\AndroidStudioProjects\\Chatterati\\chatterati\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.3\\res\\values-ms\\values-ms.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 610,
+                        "endColumn": 74,
+                        "endOffset": 680
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <TextView 
+        android:id="@+id/manage_tags"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Manage Topics"
+        android:gravity="center_horizontal"
+        android:padding="5dp"
+        android:background="@color/white"
+        android:textSize="16sp"
+        android:visibility="gone"
+        android:textStyle="bold"/>
+
+    <com.group.nearme.util.NonScrollListView
+        android:id="@+id/topic_listview"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:divider="#00000000"
+        android:dividerHeight="0dp" />
+    
+   <RelativeLayout
+        android:id="@+id/create_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone" >
+
+        <ImageView
+            android:id="@+id/grey_logo"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_margin="10dp"
+            android:contentDescription="@string/image_des"
+            android:scaleType="fitXY"
+            android:src="@drawable/launcher_icon" />
+
+        <com.group.nearme.util.MyTextView
+            android:id="@+id/spannable_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_toRightOf="@+id/grey_logo"
+            android:text="@string/after_create_group_system_post"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:layout_below="@+id/grey_logo"
+            android:background="@drawable/listview_divider_gradient" />
+    </RelativeLayout>
+
+</LinearLayout>

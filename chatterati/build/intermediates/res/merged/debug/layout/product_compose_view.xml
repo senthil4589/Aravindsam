@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        >
+
+
+    <EditText
+        android:id="@+id/product_name_box"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/search_border"
+        android:gravity="center_vertical"
+        android:hint="Product Service Name"
+        android:inputType="textCapWords|textMultiLine"
+        android:layout_toLeftOf="@+id/send_image"
+        android:maxLength="30"
+        android:maxLines="3"
+        android:padding="5dp"
+        android:textSize="14sp" />
+        <ImageView
+            android:id="@+id/send_image"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:contentDescription="@string/image_des"
+            android:alpha="0.5"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/send_icon"/>
+        <ProgressBar
+            android:id="@+id/progressBar"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_centerInParent="true"
+            android:visibility="gone"
+            />
+    </RelativeLayout>
+
+    <EditText
+        android:id="@+id/product_des_box"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/search_border"
+        android:gravity="left"
+        android:hint="Description"
+        android:inputType="textCapSentences|textMultiLine"
+        android:layout_toLeftOf="@+id/send_image"
+        android:maxLines="20"
+        android:padding="5dp"
+        android:textSize="14sp" />
+<RelativeLayout
+    android:id="@+id/upload_layout"
+    android:layout_width="match_parent"
+    android:layout_height="40dp"
+    android:background="@drawable/search_border"
+    android:layout_margin="10dp"
+    android:visibility="visible"
+    >
+
+    <ImageView
+        android:id="@+id/gallery_image"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:contentDescription="@string/image_des"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="10dp"
+        android:alpha="0.2"
+        android:src="@drawable/gallery_image"/>
+    <ImageView
+        android:id="@+id/camera_image"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:alpha="0.5"
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@+id/gallery_image"
+        android:contentDescription="@string/image_des"
+        android:layout_centerVertical="true"
+        android:src="@drawable/black_camera_icon"/>
+</RelativeLayout>
+    <RelativeLayout
+        android:id="@+id/product_image_layout"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:layout_gravity="center_horizontal"
+        android:visibility="gone"
+        >
+        <ImageView
+            android:id="@+id/close_image"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/delete"
+            android:visibility="visible"
+            android:layout_alignParentRight="true"
+            android:scaleType="fitXY"
+            />
+
+        <ImageView
+     android:id="@+id/product_image"
+     android:layout_width="250dp"
+     android:layout_height="250dp"
+     android:src="@drawable/theri"
+     android:visibility="visible"
+            android:layout_below="@+id/close_image"
+     android:scaleType="fitXY"
+     />
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp">
+
+        <EditText
+            android:id="@+id/product_price_box"
+            android:layout_width="80dp"
+            android:layout_height="40dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/search_border"
+            android:gravity="center_vertical"
+            android:hint="List Price"
+            android:inputType="number"
+            android:maxLines="2"
+            android:padding="5dp"
+            android:textSize="14sp" />
+        <EditText
+            android:id="@+id/product_offer_percentage_box"
+            android:layout_width="80dp"
+            android:layout_height="40dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/search_border"
+            android:gravity="center_vertical"
+            android:hint="% Discount"
+            android:inputType="number"
+            android:layout_toRightOf="@+id/product_price_box"
+            android:maxLines="2"
+            android:padding="5dp"
+            android:textSize="14sp" />
+        <EditText
+            android:id="@+id/product_offer_price_box"
+            android:layout_width="80dp"
+            android:layout_height="40dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/search_border"
+            android:gravity="center_vertical"
+            android:inputType="number"
+            android:layout_toRightOf="@+id/product_offer_percentage_box"
+            android:maxLines="2"
+            android:hint="Offer Price"
+            android:padding="5dp"
+            android:visibility="visible"
+            android:textSize="14sp" />
+
+
+    </RelativeLayout>
+
+
+</LinearLayout>
+</ScrollView>

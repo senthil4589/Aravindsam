@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="80dp"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp" 
+       >
+
+        <com.parse.ParseImageView
+            android:id="@+id/member_image"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_centerVertical="true"
+            android:layout_margin="10dp"
+            android:scaleType="fitXY"
+            android:contentDescription="@string/image_des"
+            />
+
+        <com.group.nearme.util.MyTextView
+            android:id="@+id/member_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:layout_toRightOf="@+id/member_image"
+            android:layout_alignParentBottom="true"
+            android:text="Members"
+            android:layout_marginBottom="10dp"
+            android:textSize="16sp"
+            android:textColor="@color/black" />
+
+        <TextView
+            android:id="@+id/admin"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_toRightOf="@+id/member_name"
+            android:background="@drawable/grey_box"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:text="A"
+            android:textColor="#7E7E7E"
+            android:layout_alignParentBottom="true"
+            android:textSize="12sp" />
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,375 @@
+-injars 'C:\Users\senthilc\AndroidStudioProjects\Chatterati\chatterati\build\intermediates\transforms\jarMerging\debug\jars\1\1f\combined.jar'
+-outjars 'C:\Users\senthilc\AndroidStudioProjects\Chatterati\chatterati\build\intermediates\multi-dex\debug\componentClasses.jar'
+
+-libraryjars 'C:\Users\senthilc\AppData\Local\Android\sdk\build-tools\23.0.2\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontwarn
+-printconfiguration 'C:\Users\senthilc\AndroidStudioProjects\Chatterati\chatterati\build\intermediates\multi-dex\debug\components.flags'
+
+
+-keep class com.group.nearme.settings.GroupNearMeApplication {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep class com.group.nearme.SplashActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.VerifyMobileNoActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.AboutYouActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.TabGroupActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.MyGroupListActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.TabGroupPostActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.GroupPostListActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.CreateGroupActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.CreatePrivateGroupActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.CreatePublicGroupActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.CreateSecretGroupActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.MyProfleActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.NearByGroupListActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.PrivateGroupLocationActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.PostImageActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.CommentActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.WelcomeActivity1 {
+    <init>();
+}
+
+-keep class com.group.nearme.WebViewActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.ContactUsActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.PendingApprovalActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.MediaPostActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.PublicGroupLocationActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.GroupProfileActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.NewGroupInfoActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.GroupLocationActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.AccessPermissionActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.InviteSecretGroupActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.PendingInvitationActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.MemberListActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.MemberProfileActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.ImageFullViewActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.AppSettingsActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.StarRatingActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.image.CropImageActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.NotificationListActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.GroupSettingsActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.ContactListActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.ShareLinkActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.CreateGroupSettingsActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.HashTagActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.HashTagFeedActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.CityGroupsActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.YoutubePlayerActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.ChooseGroupPurposeActivityNew {
+    <init>();
+}
+
+-keep class com.group.nearme.ChooseGroupTypeActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.CreateGroupProfile {
+    <init>();
+}
+
+-keep class com.group.nearme.GroupVisibiltyActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.SecretGroupSettingsActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.GroupRulesActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.VideoViewActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.EventLocationActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.TopicListActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.SubTopicListActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.TextPostActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.SubTopicFeedActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.PolicyGuideLineActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.ProductComposeActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.ShareInActivity {
+    <init>();
+}
+
+-keep class com.group.nearme.SendErroLogActivity {
+    <init>();
+}
+
+-keep class com.parse.PushService {
+    <init>();
+}
+
+-keep class com.group.nearme.settings.ParsePushReceiver {
+    <init>();
+}
+
+-keep class com.parse.GcmBroadcastReceiver {
+    <init>();
+}
+
+-keep class com.google.android.gms.ads.AdActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.ads.purchase.InAppPurchaseActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.appinvite.PreviewActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.auth.api.signin.RevocationBoundService {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementContentProvider {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementService {
+    <init>();
+}
+
+-keep class com.digits.sdk.android.PhoneNumberActivity {
+    <init>();
+}
+
+-keep class com.digits.sdk.android.ConfirmationCodeActivity {
+    <init>();
+}
+
+-keep class com.digits.sdk.android.LoginCodeActivity {
+    <init>();
+}
+
+-keep class com.digits.sdk.android.PinCodeActivity {
+    <init>();
+}
+
+-keep class com.digits.sdk.android.FailureActivity {
+    <init>();
+}
+
+-keep class com.digits.sdk.android.ContactsActivity {
+    <init>();
+}
+
+-keep class com.digits.sdk.android.EmailRequestActivity {
+    <init>();
+}
+
+-keep class com.digits.sdk.android.PhoneNumberActionBarActivity {
+    <init>();
+}
+
+-keep class com.digits.sdk.android.ConfirmationCodeActionBarActivity {
+    <init>();
+}
+
+-keep class com.digits.sdk.android.LoginCodeActionBarActivity {
+    <init>();
+}
+
+-keep class com.digits.sdk.android.FailureActionBarActivity {
+    <init>();
+}
+
+-keep class com.digits.sdk.android.ContactsActionBarActivity {
+    <init>();
+}
+
+-keep class com.digits.sdk.android.PinCodeActionBarActivity {
+    <init>();
+}
+
+-keep class com.digits.sdk.android.EmailRequestActionBarActivity {
+    <init>();
+}
+
+-keep class com.digits.sdk.android.ContactsUploadService {
+    <init>();
+}
+
+-keep class com.twitter.sdk.android.core.identity.OAuthActivity {
+    <init>();
+}
+
+-keep class com.twitter.sdk.android.core.identity.ShareEmailActivity {
+    <init>();
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}

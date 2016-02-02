@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+     android:background="#f4f4f4"
+    android:orientation="vertical" >
+
+    <com.group.nearme.util.NonScrollListView
+        android:id="@+id/feed_listview"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:background="#E8E8E8"
+        android:divider="#00000000"
+        android:dividerHeight="0dp"
+        android:paddingBottom="10dp" /> 
+
+    <com.group.nearme.util.NonScrollGridView
+        android:id="@+id/media_gridview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:horizontalSpacing="10dp"
+        android:listSelector="@color/white"
+        android:numColumns="3"
+        android:visibility="gone"
+        android:verticalSpacing="10dp" />
+
+</LinearLayout>

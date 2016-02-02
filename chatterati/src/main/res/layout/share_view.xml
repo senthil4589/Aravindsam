@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="200dp"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:background="@drawable/borders"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/chatterati"
+        android:text="Chatterati Groups"
+        style="@style/custom_dialog_content"/>
+       
+      <View
+        android:layout_width="match_parent"
+        android:layout_height="0.25dp"
+        android:background="@drawable/listview_divider_gradient" />
+
+    <TextView
+        android:id="@+id/external_share"
+        android:text="Share External"
+        style="@style/custom_dialog_content"/>
+</LinearLayout>
